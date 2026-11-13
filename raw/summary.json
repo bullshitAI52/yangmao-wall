@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-11-13T07:57:31.970896Z",
+  "window_days": 7,
+  "cutoff": "2026-11-06T07:57:31.970896Z",
+  "notes": [
+    "steam: 接口无发布日期，published_at 使用抓取时间（run time）",
+    "RSS/Atom: 仅保留发布日期在最近 7 天内的条目"
+  ],
+  "sources": [
+    {
+      "source_id": "steam",
+      "source_name": "Steam 特价",
+      "group": "游戏专区",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "source_id": "bundles",
+      "source_name": "Indie Bundles",
+      "group": "游戏专区",
+      "fetched": 20,
+      "kept": 13,
+      "error": null
+    },
+    {
+      "source_id": "hostloc",
+      "source_name": "Hostloc",
+      "group": "论坛社区",
+      "fetched": 0,
+      "kept": 0,
+      "error": "https://hostloc.com/forum.php?mod=rss -> response is not a feed (HTML page, likely a notice/block page)"
+    },
+    {
+      "source_id": "52pojie",
+      "source_name": "吾爱破解",
+      "group": "论坛社区",
+      "fetched": 20,
+      "kept": 20,
+      "error": null
+    },
+    {
+      "source_id": "sspai",
+      "source_name": "少数派",
+      "group": "软件精选",
+      "fetched": 10,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "source_id": "oschina",
+      "source_name": "开源中国",
+      "group": "软件精选",
+      "fetched": 50,
+      "kept": 50,
+      "error": null
+    },
+    {
+      "source_id": "hellogithub",
+      "source_name": "HelloGitHub",
+      "group": "软件精选",
+      "fetched": 10,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "producthunt",
+      "source_name": "Product Hunt",
+      "group": "软件精选",
+      "fetched": 50,
+      "kept": 40,
+      "error": null
+    },
+    {
+      "source_id": "smzdm",
+      "source_name": "什么值得买",
+      "group": "好价资讯",
+      "fetched": 30,
+      "kept": 30,
+      "error": null
+    },
+    {
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "group": "好价资讯",
+      "fetched": 60,
+      "kept": 60,
+      "error": null
+    }
+  ]
+}
