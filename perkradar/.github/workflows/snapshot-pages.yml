@@ -1,0 +1,136 @@
+name: Snapshot to Pages
+
+on:
+  workflow_dispatch:
+  pull_request:
+  schedule:
+    # GitHub cron 使用 UTC，与应用两小时抓取间隔一致。
+    - cron: '23 */2 * * *'
+
+concurrency:
+  # PR 检查不能占用定时发布的并发组，否则会挡住或被挡住抓取。
+  group: ${{ github.event_name == 'pull_request' && format('snapshot-pages-{0}', github.ref) || 'snapshot-pages' }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    # 与 CI 共用 verify.yml。调用方加不了 job env，发布用的 DISABLE_SCHEDULER 不会漏进测试。
+    # Pull Request 也跑这一作业：GitHub 会解析后面的发布作业，且验证路径和定时发布前的那次相同。
+    uses: ./.github/workflows/verify.yml
+    with:
+      node-version: '22'
+
+  snapshot:
+    needs: verify
+    if: success() && github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      actions: read
+    env:
+      # 只在这个不跑测试的作业里关掉调度，避免一次性抓取再拉起后台轮询。
+      DISABLE_SCHEDULER: '1'
+    steps:
+      - uses: actions/checkout@v4
+      # runner 上下文不能出现在 job 级 env。写入 GITHUB_ENV 后，后续步骤才能读到这些路径。
+      - name: Set snapshot directories
+        run: |
+          {
+            echo "DATA_DIR=${RUNNER_TEMP}/perkradar-pages-db"
+            echo "DEALS_SNAPSHOT_DIR=${RUNNER_TEMP}/perkradar-raw-snapshot"
+            echo "SNAPSHOT_SITE_DIR=${RUNNER_TEMP}/perkradar-pages"
+            echo "SNAPSHOT_PREVIOUS_FILE=${RUNNER_TEMP}/perkradar-previous/latest.json"
+          } >> "$GITHUB_ENV"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Find the last successfully published snapshot
+        id: baseline
+        uses: actions/github-script@v7
+        with:
+          script: |
+            let runs;
+            try {
+              runs = await github.rest.actions.listWorkflowRuns({
+                ...context.repo,
+                workflow_id: 'snapshot-pages.yml',
+                branch: context.payload.repository.default_branch,
+                status: 'success',
+                per_page: 30,
+              });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+              return;
+            }
+            for (const run of runs.data.workflow_runs) {
+              const artifacts = await github.rest.actions.listWorkflowRunArtifacts({
+                ...context.repo, run_id: run.id,
+              });
+              if (artifacts.data.artifacts.some(a => a.name === 'perkradar-snapshot-state' && !a.expired)) {
+                core.setOutput('run-id', String(run.id));
+                return;
+              }
+            }
+      - name: Restore the public baseline
+        if: steps.baseline.outputs.run-id != ''
+        uses: actions/download-artifact@v4
+        with:
+          name: perkradar-snapshot-state
+          path: ${{ runner.temp }}/perkradar-previous
+          run-id: ${{ steps.baseline.outputs.run-id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch sources into an isolated database
+        id: fetch
+        # 全失败仍需生成 status.json；后续准备步骤决定能否保留并发布历史。
+        continue-on-error: true
+        env:
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
+        run: npm run report
+      - name: Export this round
+        run: |
+          test -s reports/live-fetch-summary.json
+          node --import tsx scripts/write-snapshot.ts
+      - name: Prepare public snapshot and failure status
+        run: npm run snapshot:prepare
+      - name: Build the static viewer
+        run: npm run build:snapshot
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/perkradar-pages
+      - name: Keep the next public baseline
+        uses: actions/upload-artifact@v4
+        with:
+          name: perkradar-snapshot-state
+          path: ${{ runner.temp }}/perkradar-pages/latest.json
+          retention-days: 90
+          if-no-files-found: error
+      - name: Upload source diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshot-source-report
+          path: reports/live-fetch-summary.json
+          if-no-files-found: warn
+
+  deploy:
+    needs: snapshot
+    if: success() && github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
