@@ -77,7 +77,28 @@ def norm_url(u):
 def main():
     now = datetime.now(timezone.utc)
     snap = json.loads(SNAP.read_text(encoding="utf-8"))
-    extra = json.loads(EXTRA.read_text(encoding="utf-8"))
+    fresh_extra = json.loads(EXTRA.read_text(encoding="utf-8"))
+    # 累积存储：补源 feed 只吐最近条目，靠每轮并入 store 滚满 7 天（与 PerkRadar 的 SQLite 累积同理）
+    store_path = BASE / "extra_store.json"
+    store = {}
+    if store_path.exists():
+        for old in json.loads(store_path.read_text(encoding="utf-8")):
+            store[norm_url(old["url"])] = old
+    for it in fresh_extra:
+        store[norm_url(it["url"])] = it
+    cutoff = now - timedelta(days=7)
+    extra = []
+    for it in store.values():
+        pub = it.get("published_at")
+        keep = True
+        if pub:
+            try:
+                keep = datetime.fromisoformat(pub.replace("Z", "+00:00")) >= cutoff
+            except Exception:
+                keep = True
+        if keep:
+            extra.append(it)
+    store_path.write_text(json.dumps(extra, ensure_ascii=False), encoding="utf-8")
     items = []
     seen = set()
 
