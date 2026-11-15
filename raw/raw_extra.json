@@ -1,20 +1,11 @@
 [
   {
-    "title": "我带过的最差一届",
-    "url": "https://store.steampowered.com/app/5175310",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
-    "summary": "-35% ¥28.00→¥18.20"
-  },
-  {
     "title": "转运军团 - Slotbound",
     "url": "https://store.steampowered.com/app/4459590",
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
+    "published_at": "2026-11-15T20:16:51.149628Z",
     "summary": "-10% ¥42.00→¥37.80"
   },
   {
@@ -23,8 +14,17 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
+    "published_at": "2026-11-15T20:16:51.149628Z",
     "summary": "-20% ¥128.00→¥102.40"
+  },
+  {
+    "title": "我带过的最差一届",
+    "url": "https://store.steampowered.com/app/5175310",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-15T20:16:51.149628Z",
+    "summary": "-35% ¥28.00→¥18.20"
   },
   {
     "title": "Euro Truck Simulator 2",
@@ -32,35 +32,8 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
+    "published_at": "2026-11-15T20:16:51.149628Z",
     "summary": "-75% ¥92.99→¥23.24"
-  },
-  {
-    "title": "重生2我独自逆袭",
-    "url": "https://store.steampowered.com/app/3816120",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
-    "summary": "-20% ¥58.00→¥46.40"
-  },
-  {
-    "title": "隔离区-丧尸末日生存",
-    "url": "https://store.steampowered.com/app/1211600",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
-    "summary": "-40% ¥48.00→¥28.80"
-  },
-  {
-    "title": "Overcooked! 2",
-    "url": "https://store.steampowered.com/app/728880",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
-    "summary": "-66% ¥98.00→¥33.32"
   },
   {
     "title": "Sifu",
@@ -68,7 +41,7 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
+    "published_at": "2026-11-15T20:16:51.149628Z",
     "summary": "-75% ¥139.00→¥34.75"
   },
   {
@@ -77,17 +50,53 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
+    "published_at": "2026-11-15T20:16:51.149628Z",
     "summary": "-10% ¥68.00→¥61.20"
   },
   {
-    "title": "Hearts of Iron IV",
-    "url": "https://store.steampowered.com/app/394360",
+    "title": "重生2我独自逆袭",
+    "url": "https://store.steampowered.com/app/3816120",
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-15T16:17:04.816572Z",
-    "summary": "-70% ¥198.00→¥59.40"
+    "published_at": "2026-11-15T20:16:51.149628Z",
+    "summary": "-20% ¥58.00→¥46.40"
+  },
+  {
+    "title": "Grand Theft Auto：三部曲 – 最终版",
+    "url": "https://store.steampowered.com/app/817628",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-15T20:16:51.149628Z",
+    "summary": "-67% ¥279.00→¥92.07"
+  },
+  {
+    "title": "隔离区-丧尸末日生存",
+    "url": "https://store.steampowered.com/app/1211600",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-15T20:16:51.149628Z",
+    "summary": "-40% ¥48.00→¥28.80"
+  },
+  {
+    "title": "未知伤亡",
+    "url": "https://store.steampowered.com/app/4576490",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-15T20:16:51.149628Z",
+    "summary": "-15% ¥78.00→¥66.30"
+  },
+  {
+    "title": "Fanatical Play on the Go Elite Collection: Choose 2 Steam Deck Games for $14.99",
+    "url": "https://www.indiegamebundles.com/fanatical-play-on-the-go-elite-collection-choose-2-steam-deck-games-for-14-99/",
+    "source_id": "bundles",
+    "source_name": "Indie Bundles",
+    "group": "游戏专区",
+    "published_at": "2026-11-15T17:12:00Z",
+    "summary": "Fanatical's Build Your Own Play on the Go Elite Collection (Fall 2026) offers 20 games and special editions for Steam Deck owners, with prices starting at $14.9"
   },
   {
     "title": "Get Microsoft Office 2024 Professional Plus for Just $48 – Lifetime License, No Subscription",
@@ -162,193 +171,184 @@
     "summary": "The bundle celebrates ten years of the Beholder series and brings together a selection of games from publisher Alawar, including Beholder series. The post Humbl"
   },
   {
-    "title": "Free Games with Amazon Luna November 2026",
-    "url": "https://www.indiegamebundles.com/free-games-with-amazon-luna-november-2026/",
-    "source_id": "bundles",
-    "source_name": "Indie Bundles",
-    "group": "游戏专区",
-    "published_at": "2026-11-08T16:45:25Z",
-    "summary": "This month, get Madden NFL 28, NBA The Run, Sushi Go! and more free games at Amazon Prime. The post Free Games with Amazon Luna November 2026 appeared first on "
-  },
-  {
-    "title": "简单地CrackMe破解",
-    "url": "https://www.52pojie.cn/thread-2137801-1-1.html",
+    "title": "任务栏时钟\"点开\"那件事：Tauri 2 + Rust 多窗口架构复盘",
+    "url": "https://www.52pojie.cn/thread-2137869-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-15T07:38:57Z",
-    "summary": "原贴地址https://www.52pojie.cn/thread-2050274-1-4.html 一、爆破 在x64dbg里找到关键字符串\\\"Congratulations! Valid key.\\\" [mw_shl_code=asm,true]0000000000401A96 | 48:8D15 88750800"
+    "published_at": "2026-11-15T16:04:33Z",
+    "summary": "[md]# 任务栏时钟\\\"点开\\\"那件事：Tauri 2 + Rust 多窗口架构复盘 > 在做 Windows 桌面日历（日程 / 待办 / 提醒 / 桌面组件 + AI 秘书），技术栈 Tauri 2 + React + TypeScript + Rust + SQLite。后端 `src-tauri/src` ."
   },
   {
-    "title": "一个比较简单的小体积KeyGenMe",
-    "url": "https://www.52pojie.cn/thread-2137799-1-1.html",
+    "title": "求高中历史网课或者笔记",
+    "url": "https://www.52pojie.cn/thread-2137866-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-15T07:35:50Z",
-    "summary": "挑战目标： 对于任意用户名写出注册机算法来生成序列号和密钥 提交 (username, serial, keyfile) 。修改本地打印内容、复制公开输出或修改退出码，不算恢复有效 Key 给一组 (Alice, HCMR-T23P-3J75-KSQK , (file, hex) 3bc5 1062 973c 458d"
-  },
-  {
-    "title": "微软全新升级的一款拼音输入法~",
-    "url": "https://www.52pojie.cn/thread-2137796-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-15T07:25:38Z",
-    "summary": "中文输入法：微软全新升级的一款输入法。简单，准确，更懂中文。商店里可以下载。 说明 微软全新升级的中文输入法，为 Windows 用户带来更简单、更准确、更懂中文的输入体验。界面更简洁，依旧纯净无广告，让输入回 ..."
-  },
-  {
-    "title": "求凯叔的少年参考，音频百度资源。",
-    "url": "https://www.52pojie.cn/thread-2137783-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-15T05:01:52Z",
+    "published_at": "2026-11-15T15:29:02Z",
     "summary": ""
   },
   {
-    "title": "esp32自动认证校园网固件",
-    "url": "https://www.52pojie.cn/thread-2137782-1-1.html",
+    "title": "本站修改了一下新发布的帖子内容之后，阅读权限自动往上升了",
+    "url": "https://www.52pojie.cn/thread-2137864-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-15T04:57:07Z",
-    "summary": "适用于任意型号的esp32自动认证校园网固件，适用环境是路由器接入校园网后，交由esp32自动给路由器统一认证校园网，使得可以直接连接路由器上网，无需焊接，只需烧录固件，附带板载LED状态灯查看。"
-  },
-  {
-    "title": "plc学习资料全套",
-    "url": "https://www.52pojie.cn/thread-2137775-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-15T03:52:06Z",
+    "published_at": "2026-11-15T15:12:52Z",
     "summary": ""
   },
   {
-    "title": "法式风味Resource Hacker",
-    "url": "https://www.52pojie.cn/thread-2137762-1-1.html",
+    "title": "工程科技数字图书馆 在线秒结",
+    "url": "https://www.52pojie.cn/thread-2137862-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-15T02:47:08Z",
-    "summary": "由“冥界3大法王”同学使用Delphi从头开始开发（为啥？ 因为就没一款用着舒服，特别的给力的，故此 “重打锣鼓另开张”! 一款PE资源修改工具 [*]支持文件拖放 [*]命令行方式打开 [*]多标签（右击菜单中操作） ..."
-  },
-  {
-    "title": "Cheat Engine 脚本编辑工具",
-    "url": "https://www.52pojie.cn/thread-2137760-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-15T02:25:00Z",
-    "summary": "[md]# CeScript（Notepad3 CE 编辑器） 下载地址：https://wwapo.lanzouv.com/b03cbidsqd 密码:ggum 解压后，放置到ce autorun路径下。 你的ce好伴侣。 CeScript 是一个 Windows 平台的轻量级文本/代码编辑器，在 No ..."
-  },
-  {
-    "title": "进程监视器 Process Monitor 4.13 完全汉化版",
-    "url": "https://www.52pojie.cn/thread-2137758-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-15T02:15:16Z",
-    "summary": "Process Monitor 是一款由 Sysinternals 公司开发的包含强大的监视和过滤功能的高级 Windows 监视工具，可实时显示文件系统、注册表、进程/线程的活动。它结合了两个 Sysinternals 的旧版工具 Filemon 和 Regmon 的功能 ..."
-  },
-  {
-    "title": "电脑突然跳出这个播放器，关了过一会又自动跳出来",
-    "url": "https://www.52pojie.cn/thread-2137757-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-15T02:07:13Z",
+    "published_at": "2026-11-15T14:57:39Z",
     "summary": ""
   },
   {
-    "title": "复制文件bat的编制",
-    "url": "https://www.52pojie.cn/thread-2137750-1-1.html",
+    "title": "百度转夸克 （网络工程师）",
+    "url": "https://www.52pojie.cn/thread-2137856-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-15T01:26:57Z",
+    "published_at": "2026-11-15T14:21:23Z",
     "summary": ""
   },
   {
-    "title": "求一款ps用的微信字体",
-    "url": "https://www.52pojie.cn/thread-2137741-1-1.html",
+    "title": "道客巴巴文档下载（要求源格式，非打印）",
+    "url": "https://www.52pojie.cn/thread-2137851-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T23:27:51Z",
+    "published_at": "2026-11-15T14:09:27Z",
+    "summary": "请求帮助下载道客巴巴pdf文件，要求是原格式的pdf文件，不是用虚拟打印机打印的。 感谢！ https://www.doc88.com/p-58868452067543.html"
+  },
+  {
+    "title": "论坛有没有上海代账公司？？代账会计公司",
+    "url": "https://www.52pojie.cn/thread-2137844-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-15T13:18:21Z",
     "summary": ""
   },
   {
-    "title": "求一份UE4Dump_imGui_AnalyseToolsForMC",
-    "url": "https://www.52pojie.cn/thread-2137740-1-1.html",
+    "title": "NET Reactor 7.X.X汉化补丁-原创",
+    "url": "https://www.52pojie.cn/thread-2137843-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T19:46:37Z",
+    "published_at": "2026-11-15T13:10:46Z",
+    "summary": ".NET Reactor 7.X.X-汉化补丁 目前使用的7.7.1.0版本和7.5.0版本查看后没有问题 拖入对应的文件 重新启动打开则可以查看显示汉化成功，其他的版本没有尝试，感兴趣的可以试一下，7.X以下版本的不支持 可以通过修改 ..."
+  },
+  {
+    "title": "熊猫办公PPT下载",
+    "url": "https://www.52pojie.cn/thread-2137841-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-15T13:00:06Z",
+    "summary": "https://www.tukuppt.com/muban/rlawgzzl.html https://www.tukuppt.com/muban/kbwpvbvx.html"
+  },
+  {
+    "title": "求有声书 我在春秋遇见的人和神",
+    "url": "https://www.52pojie.cn/thread-2137838-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-15T12:45:36Z",
+    "summary": "如题，共78集，喜马拉雅，作者:李敬泽，播讲者:潇潇有声，mp3，阿里云盘或百度云盘。"
+  },
+  {
+    "title": "求助文泉书局三本书",
+    "url": "https://www.52pojie.cn/thread-2137837-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-15T12:00:40Z",
     "summary": ""
   },
   {
-    "title": "自动转盘，带动画和音效",
-    "url": "https://www.52pojie.cn/thread-2137739-1-1.html",
+    "title": "道客巴巴文档下载（要求源格式，非打印）",
+    "url": "https://www.52pojie.cn/thread-2137836-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T19:31:36Z",
-    "summary": "[mw_shl_code=html,true] 炫酷动画抽奖转盘｜标签卡片中奖 * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; -webkit-tap-highlight-color: transparent ..."
+    "published_at": "2026-11-15T11:59:32Z",
+    "summary": "请求帮助下载道客巴巴pdf文件，要求是原格式的pdf文件，不是用虚拟打印机打印的。 感谢！ https://www.doc88.com/p-58868452067543.html"
   },
   {
-    "title": "CSDN资源下载",
-    "url": "https://www.52pojie.cn/thread-2137736-1-1.html",
+    "title": "道客巴巴文档下载（要求源格式，非打印）",
+    "url": "https://www.52pojie.cn/thread-2137835-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T18:26:52Z",
-    "summary": "有哪位朋友可以帮忙下载CSDN上的资源？https://wenku.csdn.net/doc/71bdd99dq5"
+    "published_at": "2026-11-15T11:49:35Z",
+    "summary": "请求帮助下载道客巴巴pdf文件，要求是原格式的pdf文件，不是用虚拟打印机打印的。 感谢！ https://www.doc88.com/p-18368144854710.html"
   },
   {
-    "title": "鸿蒙系统与Win10系统如何键鼠共享？",
-    "url": "https://www.52pojie.cn/thread-2137734-1-1.html",
+    "title": "文件属性查看器 V1.2",
+    "url": "https://www.52pojie.cn/thread-2137834-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T17:09:56Z",
+    "published_at": "2026-11-15T11:49:27Z",
+    "summary": "【软件信息】 - 软件名称：文件属性查看器 - 软件版本：V1.2 - 软件大小：约 1 MB（单文件绿色版） - 应用平台：Windows 7/8/10/11（32/64 位） - 软件类型：纯 C++ / Win32 原生编译，无任何运行库依赖 - 作 者： ..."
+  },
+  {
+    "title": "连点器",
+    "url": "https://www.52pojie.cn/thread-2137833-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-15T11:33:51Z",
+    "summary": "下载地址：wwbmo.lanzoum.com/b01ype1ksf 密码:52pj 这个连点器是按那个键那个键就连点，松开就停止，可以自定义需要连点的按键， 如果有按键魔盒1代增强版硬件也可以用硬件设备连点，没有也不影响使用 ..."
+  },
+  {
+    "title": "求飞时达土方计算V18",
+    "url": "https://www.52pojie.cn/thread-2137825-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-15T10:18:26Z",
     "summary": ""
   },
   {
-    "title": "学科网资料求助",
-    "url": "https://www.52pojie.cn/thread-2137726-1-1.html",
+    "title": "俺又搞了个类似“音速启动”的小玩意名曰“法风快启”",
+    "url": "https://www.52pojie.cn/thread-2137824-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T15:31:31Z",
-    "summary": "https://www.zxxk.com/docpack/3695221.html ，求下载该专辑下第20课，第21课下的PPT，和 17、18、19、20、21课的教案，谢谢"
+    "published_at": "2026-11-15T10:09:43Z",
+    "summary": "是不是 各位被我的 “法风” ==》“发疯” 雷到了？ 使用VS2022开发，才432K ， 感觉还可以加入不少工具啊。。。来点 点子和创意！"
   },
   {
-    "title": "大佬门 我想学习 ai开发 桌面 和网页应用需要学习哪些技术",
-    "url": "https://www.52pojie.cn/thread-2137724-1-1.html",
+    "title": "求助一篇百度文库文档下载（菜鸟主机怎么加红外……）",
+    "url": "https://www.52pojie.cn/thread-2137822-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T15:19:40Z",
-    "summary": "目前我是纯小白啥也不会 想学习 可以供局域网使用的 网页应用 和ui的桌面端应用"
+    "published_at": "2026-11-15T10:04:05Z",
+    "summary": "谢谢应助的吾友 标题名：菜鸟主机怎么加红外？从硬件到配置全攻略 发布时间：2026-09-15 地址：https://wenku.baidu.com/view/4d44861406768e9951e79b89680203d8ce2f6ae0.html?_wkts_=1794735536811 大家好，在此收集菜鸟主机怎"
   },
   {
-    "title": "求Dua Lipa(啪姐)歌曲： Training Season",
-    "url": "https://www.52pojie.cn/thread-2137723-1-1.html",
+    "title": "求东海手机维修论坛固件下载地址",
+    "url": "https://www.52pojie.cn/thread-2137820-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T15:18:42Z",
+    "published_at": "2026-11-15T09:55:25Z",
     "summary": ""
   },
   {
-    "title": "通过cookie能否拿到dy的相关sign",
-    "url": "https://www.52pojie.cn/thread-2137720-1-1.html",
+    "title": "比亚迪靠近自动解锁(有蓝牙即可)3.22.17",
+    "url": "https://www.52pojie.cn/thread-2137818-1-1.html",
     "source_id": "52pojie",
     "source_name": "吾爱破解",
     "group": "论坛社区",
-    "published_at": "2026-11-14T14:39:22Z",
-    "summary": ""
+    "published_at": "2026-11-15T09:19:50Z",
+    "summary": "通过网盘分享的文件：BYD控车-3.22.17（手机安装）.apk 链接: https://pan.baidu.com/s/1Ru-HjvKdr7f-3NpeeqQc2g?pwd=va75 提取码: va75 搬运一个大神的软件（不知道原作者），比亚迪老车型也可以用（我的是23款秦pl ..."
   },
   {
     "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
@@ -891,15 +891,6 @@
     "summary": "FormCreate 是一个可以通过 JSON 生成具有动态渲染、数据收集、验证和提交功能的表单生成组件。支持8个UI框架，并且支持生成任何 Vue 组件。内置20种常用表单组件和自定义组件，再复杂的表单都可以轻松搞定。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 帮助文档 | 源码下载 3.3."
   },
   {
-    "title": "Rakazo",
-    "url": "https://www.producthunt.com/products/rakazo",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T18:46:58Z",
-    "summary": "The open source Grok Bot alternative you actually own Discussion | Link"
-  },
-  {
     "title": "Canvas by AgentGrid.io",
     "url": "https://www.producthunt.com/products/agentgrid-io",
     "source_id": "producthunt",
@@ -907,42 +898,6 @@
     "group": "软件精选",
     "published_at": "2026-11-15T06:22:09Z",
     "summary": "Agentic Design Canvas - A visual way to collaborate with AI Discussion | Link"
-  },
-  {
-    "title": "Pixel Office",
-    "url": "https://www.producthunt.com/products/pixel-office-3",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T16:47:12Z",
-    "summary": "Run a team of AI agents from a pixel-art office Discussion | Link"
-  },
-  {
-    "title": "Talyn",
-    "url": "https://www.producthunt.com/products/talyn",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T10:07:59Z",
-    "summary": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link"
-  },
-  {
-    "title": "Emayler",
-    "url": "https://www.producthunt.com/products/emayler",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T23:32:53Z",
-    "summary": "Custom email on your domain, minus the headache Discussion | Link"
-  },
-  {
-    "title": "Privacyboard",
-    "url": "https://www.producthunt.com/products/privacyboard",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-14T10:31:24Z",
-    "summary": "Privacy compliance on autopilot Discussion | Link"
   },
   {
     "title": "Frevana Multiplayer",
@@ -954,40 +909,49 @@
     "summary": "AI that grows your business alongside your team Discussion | Link"
   },
   {
-    "title": "Polylane for Security",
-    "url": "https://www.producthunt.com/products/polylane",
+    "title": "Emayler",
+    "url": "https://www.producthunt.com/products/emayler",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-11T18:55:28Z",
-    "summary": "Catch exploitable vulnerabilities before they ship Discussion | Link"
+    "published_at": "2026-11-12T23:32:53Z",
+    "summary": "Custom email on your domain, minus the headache Discussion | Link"
   },
   {
-    "title": "Perit Marketplace",
-    "url": "https://www.producthunt.com/products/perit-marketplace",
+    "title": "Pixel Office",
+    "url": "https://www.producthunt.com/products/pixel-office-3",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-15T05:04:05Z",
-    "summary": "Sell your data and RL tasks to frontier AI labs Discussion | Link"
+    "published_at": "2026-11-12T16:47:12Z",
+    "summary": "Run a team of AI agents from a pixel-art office Discussion | Link"
   },
   {
-    "title": "HuntMonitor",
-    "url": "https://www.producthunt.com/products/huntmonitor",
+    "title": "Privacyboard",
+    "url": "https://www.producthunt.com/products/privacyboard",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-14T17:36:18Z",
-    "summary": "Watch today's hunt live: points, speed, rank moves Discussion | Link"
+    "published_at": "2026-11-14T10:31:24Z",
+    "summary": "Privacy compliance on autopilot Discussion | Link"
   },
   {
-    "title": "Remindly",
-    "url": "https://www.producthunt.com/products/remindly-6",
+    "title": "Talyn",
+    "url": "https://www.producthunt.com/products/talyn",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-13T23:19:19Z",
-    "summary": "Notes that remind you, on iPhone, iPad, Mac and web Discussion | Link"
+    "published_at": "2026-11-12T10:07:59Z",
+    "summary": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link"
+  },
+  {
+    "title": "Rakazo",
+    "url": "https://www.producthunt.com/products/rakazo",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T18:46:58Z",
+    "summary": "The open source Grok Bot alternative you actually own Discussion | Link"
   },
   {
     "title": "GotEmail",
@@ -999,6 +963,15 @@
     "summary": "Fast, native and smart email for Mac and iPhone Discussion | Link"
   },
   {
+    "title": "Perit Marketplace",
+    "url": "https://www.producthunt.com/products/perit-marketplace",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-15T05:04:05Z",
+    "summary": "Sell your data and RL tasks to frontier AI labs Discussion | Link"
+  },
+  {
     "title": "ByteAsk Cloud Agents",
     "url": "https://www.producthunt.com/products/byteask-cloud-agents",
     "source_id": "producthunt",
@@ -1006,6 +979,33 @@
     "group": "软件精选",
     "published_at": "2026-11-14T06:54:44Z",
     "summary": "Find the fix in big codebases. Ship it from Slack. Discussion | Link"
+  },
+  {
+    "title": "HuntMonitor",
+    "url": "https://www.producthunt.com/products/huntmonitor",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-14T17:36:18Z",
+    "summary": "Watch today's hunt live: points, speed, rank moves Discussion | Link"
+  },
+  {
+    "title": "Polylane for Security",
+    "url": "https://www.producthunt.com/products/polylane",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-11T18:55:28Z",
+    "summary": "Catch exploitable vulnerabilities before they ship Discussion | Link"
+  },
+  {
+    "title": "Remindly",
+    "url": "https://www.producthunt.com/products/remindly-6",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T23:19:19Z",
+    "summary": "Notes that remind you, on iPhone, iPad, Mac and web Discussion | Link"
   },
   {
     "title": "CodeMesh",
@@ -1017,15 +1017,6 @@
     "summary": "Cut AI coding costs by 90% Discussion | Link"
   },
   {
-    "title": "Antelog",
-    "url": "https://www.producthunt.com/products/antelog",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-10T05:38:22Z",
-    "summary": "Stops AI coding agents from leaking or destroying your data Discussion | Link"
-  },
-  {
     "title": "Uber Parking",
     "url": "https://www.producthunt.com/products/uber",
     "source_id": "producthunt",
@@ -1033,60 +1024,6 @@
     "group": "软件精选",
     "published_at": "2026-11-09T17:07:16Z",
     "summary": "Find, compare and reserve parking inside the Uber app Discussion | Link"
-  },
-  {
-    "title": "Dex Semantics",
-    "url": "https://www.producthunt.com/products/dex-by-exmergo",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-11T21:48:12Z",
-    "summary": "Let your agent build analytics with 25% fewer errors Discussion | Link"
-  },
-  {
-    "title": "Dynamic Edge",
-    "url": "https://www.producthunt.com/products/dynamic-edge",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-11T11:40:48Z",
-    "summary": "The Dynamic Island for Windows Discussion | Link"
-  },
-  {
-    "title": "Thunder",
-    "url": "https://www.producthunt.com/products/thunder-3",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T21:27:29Z",
-    "summary": "A blazing-fast, persistent, key-value AI workload database Discussion | Link"
-  },
-  {
-    "title": "ScreenGo",
-    "url": "https://www.producthunt.com/products/screengo",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-09T15:57:03Z",
-    "summary": "screen recorder for Mac with auto zooms and virtual webcam Discussion | Link"
-  },
-  {
-    "title": "Default Tamer",
-    "url": "https://www.producthunt.com/products/default-tamer",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T17:27:40Z",
-    "summary": "Open every link in the right browser on macOS Discussion | Link"
-  },
-  {
-    "title": "Restoration Scope",
-    "url": "https://www.producthunt.com/products/restoration-scope",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-11T14:39:07Z",
-    "summary": "Field data and monitoring software for reforestation Discussion | Link"
   },
   {
     "title": "Tacie",
@@ -1098,15 +1035,6 @@
     "summary": "Meeting notes on your Mac, with no bot in the call Discussion | Link"
   },
   {
-    "title": "Gemini Robotics 2.5",
-    "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T20:18:13Z",
-    "summary": "Gemini Robotics 2.5: Google’s most capable robot model Discussion | Link"
-  },
-  {
     "title": "Drops",
     "url": "https://www.producthunt.com/products/drops-4",
     "source_id": "producthunt",
@@ -1116,13 +1044,67 @@
     "summary": "Discover new music through moments your friends love Discussion | Link"
   },
   {
-    "title": "FreeFlow Dictation",
-    "url": "https://www.producthunt.com/products/freeflow-dictation",
+    "title": "Default Tamer",
+    "url": "https://www.producthunt.com/products/default-tamer",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-10T08:38:27Z",
-    "summary": "On-device Mac dictation with a Claude Code voice hook Discussion | Link"
+    "published_at": "2026-11-12T17:27:40Z",
+    "summary": "Open every link in the right browser on macOS Discussion | Link"
+  },
+  {
+    "title": "Thunder",
+    "url": "https://www.producthunt.com/products/thunder-3",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T21:27:29Z",
+    "summary": "A blazing-fast, persistent, key-value AI workload database Discussion | Link"
+  },
+  {
+    "title": "Restoration Scope",
+    "url": "https://www.producthunt.com/products/restoration-scope",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-11T14:39:07Z",
+    "summary": "Field data and monitoring software for reforestation Discussion | Link"
+  },
+  {
+    "title": "Dynamic Edge",
+    "url": "https://www.producthunt.com/products/dynamic-edge",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-11T11:40:48Z",
+    "summary": "The Dynamic Island for Windows Discussion | Link"
+  },
+  {
+    "title": "Gemini Robotics 2.5",
+    "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-12T20:18:13Z",
+    "summary": "Gemini Robotics 2.5: Google’s most capable robot model Discussion | Link"
+  },
+  {
+    "title": "Dex Semantics",
+    "url": "https://www.producthunt.com/products/dex-by-exmergo",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-11T21:48:12Z",
+    "summary": "Let your agent build analytics with 25% fewer errors Discussion | Link"
+  },
+  {
+    "title": "Blender 5.3",
+    "url": "https://www.producthunt.com/products/blender",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T05:32:19Z",
+    "summary": "3D Gaussian splats, now native to Blender Discussion | Link"
   },
   {
     "title": "Businesses in ChatGPT",
@@ -1132,6 +1114,33 @@
     "group": "软件精选",
     "published_at": "2026-11-13T08:53:51Z",
     "summary": "Help customers discover your business through ChatGPT Discussion | Link"
+  },
+  {
+    "title": "ScreenGo",
+    "url": "https://www.producthunt.com/products/screengo",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-09T15:57:03Z",
+    "summary": "screen recorder for Mac with auto zooms and virtual webcam Discussion | Link"
+  },
+  {
+    "title": "Antelog",
+    "url": "https://www.producthunt.com/products/antelog",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-10T05:38:22Z",
+    "summary": "Stops AI coding agents from leaking or destroying your data Discussion | Link"
+  },
+  {
+    "title": "FreeFlow Dictation",
+    "url": "https://www.producthunt.com/products/freeflow-dictation",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-10T08:38:27Z",
+    "summary": "On-device Mac dictation with a Claude Code voice hook Discussion | Link"
   },
   {
     "title": "inread.app",
@@ -1150,15 +1159,6 @@
     "group": "软件精选",
     "published_at": "2026-11-13T11:39:17Z",
     "summary": "Build interactive group experiences with AI. Discussion | Link"
-  },
-  {
-    "title": "Blender 5.3",
-    "url": "https://www.producthunt.com/products/blender",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T05:32:19Z",
-    "summary": "3D Gaussian splats, now native to Blender Discussion | Link"
   },
   {
     "title": "AnyoneHiring.today",
@@ -1215,274 +1215,283 @@
     "summary": "Rive animation templates you can drop into your app Discussion | Link"
   },
   {
-    "title": "五粮浓香 礼盒装 佳节送礼 商务宴请 中秋佳礼 52度 500mL 2瓶 华彩人生（宜宾五粮液仙林生态 168元（需用券）",
-    "url": "https://www.smzdm.com/p/186193192/",
+    "title": "海澜之家 新疆棉男士保暖内衣套装男秋衣秋裤保暖衣 59元",
+    "url": "https://www.smzdm.com/p/186196879/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:27Z",
-    "summary": "狗嘿嘿京东此款目前活动售价588元，参与满588减420元活动，下单1件，实付低至168元。"
+    "published_at": "2026-11-16T04:15:18Z",
+    "summary": "陪佩佩唯品会此款目前活动售价59元，下单1件，实付低至59元。"
   },
   {
-    "title": "天勤粒粒净 有机黄糯玉米棒 26年新鲜糯玉米 甜粘非即食低脂 健康早餐代餐 小黄糯220g 22.9元",
-    "url": "https://www.smzdm.com/p/186193204/",
+    "title": "移动端：闪迪 u盘512GB高速usb3.2哨兵车载音乐电脑优盘迷你cz430车用优盘 86.89元（淘金币可抵0.5元起）",
+    "url": "https://www.smzdm.com/p/186196880/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:25Z",
-    "summary": "顶级花花京东此款目前活动售价22.9元，下单1件，实付低至22.9元。"
+    "published_at": "2026-11-16T04:15:07Z",
+    "summary": "小值机器人活动价 ¥99.89（sandisk闪迪伯众专卖店） 券后 ¥86.89闪迪 cz430 U盘 512GB USB 3.2，sandisk闪迪伯众专卖店在售。日常用户图的是插上就用、传文件快、放包里不丢；发烧友更在意主控颗粒、持续写入速度和双接口便利性。到手¥86.89，适合入手..."
   },
   {
-    "title": "雪中飞 男士珊瑚绒睡衣秋冬加绒加厚保暖家居服套装青少年大码可外穿 NSCJF-墨灰包边 79元（需用券）",
-    "url": "https://www.smzdm.com/p/186193207/",
+    "title": "笛莎 舒适云感 儿童长袖上衣 22元",
+    "url": "https://www.smzdm.com/p/186196874/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:23Z",
-    "summary": "驴斯克京东此款目前活动售价99元，参与满21减20元活动，下单1件，实付低至79元。"
+    "published_at": "2026-11-16T04:14:14Z",
+    "summary": "陪佩佩唯品会此款目前活动售价22元，下单1件，实付低至22元。"
   },
   {
-    "title": "得力 水彩颜料24色5ml画画美术美术专用便携学生儿童入门级绘画套装含画笔礼物出游开学礼物 12.15元",
-    "url": "https://www.smzdm.com/p/186193202/",
+    "title": "彤乐 WPT德州扑克扑克牌塑料比赛专用807加厚宽金艺PVC防水防折彤乐308 29.9元",
+    "url": "https://www.smzdm.com/p/186196878/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:21Z",
-    "summary": "梦里花落知少多京东自营此款目前活动售价13.5元，参与优惠活动，下单1件，实付低至12.15元。"
+    "published_at": "2026-11-16T04:14:13Z",
+    "summary": "小值机器人该价格商品规格：背面颜色：WPT德州 红色5副(体验装)天猫商城该商品当前到手价29.90元，降价前售价为54.91元，本次降幅46%，与上次爆料价相等。"
   },
   {
-    "title": "捷氏 纯玉米糊400g低脂肪玉米羹无蔗糖玉米粉粗粮营养早代餐冲饮玉米汁 11.9元",
-    "url": "https://www.smzdm.com/p/186193196/",
+    "title": "拜雅 DT 30 IE 高保真监听 3.5mm接口 入耳式耳机 999元",
+    "url": "https://www.smzdm.com/p/186196876/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:19Z",
-    "summary": "猪渐强京东自营此款目前活动售价11.9元，下单1件，实付低至11.9元。"
+    "published_at": "2026-11-16T04:14:07Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：DT 30 IE天猫商城该商品当前到手价999.00元，降价前售价为1199.00元，本次降幅17%，"
   },
   {
-    "title": "君乐宝 简醇酸奶 100g*20袋+芭乐酸奶 100g*2袋 25.8元（需用券）",
-    "url": "https://www.smzdm.com/p/186193203/",
+    "title": "OPPO Enco Air4i 入耳式蓝牙耳机 玉瓷白 84.6元",
+    "url": "https://www.smzdm.com/p/186196875/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:18Z",
-    "summary": "乌拉乌拉颂京东此款目前活动售价59.8元，满1件减24元，下单领取满59元减10元优惠券，下单1件，实付低至25.8元。"
+    "published_at": "2026-11-16T04:14:06Z",
+    "summary": "小值机器人该价格商品规格：套餐类型：官方标配；颜色分类：玉瓷白天猫商城该商品参加1件9折的促销活动，当前到手价84.60元，降价前售价为89.10元，本次降幅5%，"
   },
   {
-    "title": "湄 窖酱酒53度酱香型白酒 商务宴请 佳节送礼 中秋团圆礼赠 礼盒装 53度 500mL 2瓶 138元（需用券）",
-    "url": "https://www.smzdm.com/p/186193197/",
+    "title": "臭宝 螺蛳粉爆爆浓汤218g柳州螺狮粉228g广西米粉米线 43.64元",
+    "url": "https://www.smzdm.com/p/186196873/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:18Z",
-    "summary": "巴豆奶昔京东此款目前活动售价888元，参与满888减450元活动，下单1件，实付低至138元。"
+    "published_at": "2026-11-16T04:13:13Z",
+    "summary": "小值机器人拼多多该商品当前到手价43.64元，降价前售价为74.90元，本次降幅42%，与上次爆料价相等。喜欢的值友不要错过~"
   },
   {
-    "title": "喜之郎 果汁果冻 120g*15袋 16.8元（需用券）",
-    "url": "https://www.smzdm.com/p/186193194/",
+    "title": "海澜之家 男士秋衣秋裤套装 HBATZM3AAI0086 71元",
+    "url": "https://www.smzdm.com/p/186196868/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:18Z",
-    "summary": "乌拉乌拉颂京东此款目前活动售价19.8元，下单领取满15元减5元优惠券，下单1件，实付低至16.8元。"
+    "published_at": "2026-11-16T04:08:18Z",
+    "summary": "陪佩佩唯品会此款目前活动售价75元，下单1件，实付低至71元。"
   },
   {
-    "title": "狼蛛 S500机械键盘鼠标套装 有线背光 104键全尺寸 游戏电竞笔记本电脑键盘青轴茶轴黑 88.98元",
-    "url": "https://www.smzdm.com/p/186193198/",
+    "title": "关注领5京豆，老店常新，富士旗舰店",
+    "url": "https://www.smzdm.com/p/186196866/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:17Z",
-    "summary": "食铁猛瘦京东此款目前活动售价88.98元，下单1件，实付低至88.98元。"
+    "published_at": "2026-11-16T04:08:14Z",
+    "summary": "沙塔帮帮主你领到了吗！！！！"
   },
   {
-    "title": "锋味派 猪肉爆汁烤肠 黑胡椒味 59元",
-    "url": "https://www.smzdm.com/p/186193193/",
+    "title": "养味 牛奶276g 28.9元",
+    "url": "https://www.smzdm.com/p/186196869/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:17Z",
-    "summary": "Glory_gy8866天猫精选此款目前活动售价70元，下单1件，实付低至59元。"
+    "published_at": "2026-11-16T04:08:13Z",
+    "summary": "小值机器人拼多多该商品当前到手价28.90元，降价前售价为32.90元，本次降幅12%，低于上次爆料价31.50元。喜欢的值友不要错过~"
   },
   {
-    "title": "鲁花 压榨特香4L 去苦留香 物理压榨 欧洲双认证 油 83.61元",
-    "url": "https://www.smzdm.com/p/186193190/",
+    "title": "美加净 护手霜春夏不油腻保湿补水滋润防干裂正品官方旗舰店大容量 4.9元",
+    "url": "https://www.smzdm.com/p/186196871/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:16Z",
-    "summary": "阿依土拉京东自营此款目前活动售价89.9元，参与满1元打9.3折活动，下单1件，实付低至83.61元。"
+    "published_at": "2026-11-16T04:08:11Z",
+    "summary": "小值机器人该价格商品规格：香味：特惠便携装丨保湿滋养手霜30g天猫商城该商品当前到手价4.90元，降价前售价为8.80元，本次降幅44%，与上次爆料价相等。喜欢的值友不要错过~"
   },
   {
-    "title": "LILY 冬季格雷系撞色条纹修身灰色长袖针织开衫 207元",
-    "url": "https://www.smzdm.com/p/186193191/",
+    "title": "不二家 可吸果冻 156g 香橙味+黄桃味 3.03元",
+    "url": "https://www.smzdm.com/p/186196863/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:15Z",
-    "summary": "木子cake唯品会此款目前活动售价230元，下单1件，实付低至207元。"
+    "published_at": "2026-11-16T04:07:12Z",
+    "summary": "小值机器人天猫商城该商品参加1件9.5折的促销活动，当前到手价3.03元，降价前售价为6.27元，本次降幅52%，与上次爆料价相等。喜欢的值友不要错过~"
   },
   {
-    "title": "88VIP：天润 新疆浓缩纯牛奶儿童学生早餐奶整箱 37.9元",
-    "url": "https://www.smzdm.com/p/186193201/",
+    "title": "黄道益 活络油 50ml 56.9元",
+    "url": "https://www.smzdm.com/p/186196860/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:14Z",
-    "summary": "Monder-one天猫超市此款目前活动售价52.9元，参与88VIP 95折，立减13元优惠活动，下单1件，实付低至37.9元。"
+    "published_at": "2026-11-16T04:05:03Z",
+    "summary": "小值机器人海外购商品可能需额外税费及运费，实付价格以下单后价格为准。京东国际该商品正在热销，最终到手价56.9元/件，喜欢可入。"
   },
   {
-    "title": "米家 自动循环 宠物饮水机 179元",
-    "url": "https://www.smzdm.com/p/186193199/",
+    "title": "新入会领5京豆，老店长青，酒连酒旗舰店",
+    "url": "https://www.smzdm.com/p/186196862/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:14Z",
-    "summary": "驴嘿嘿天猫超市此款目前活动售价299元，参与立减120元优惠活动，下单1件，实付低至179元。"
+    "published_at": "2026-11-16T04:04:13Z",
+    "summary": "沙塔帮帮主新入会领5京豆，酒连酒旗舰店！老店新发，我第二次领了！！！"
   },
   {
-    "title": "东方甄选 自营大西洋真鳕鱼排水产鱼肉半成品生鲜海鲜烤肉食材 132.9元",
-    "url": "https://www.smzdm.com/p/186193195/",
+    "title": "中兴 AX3000T 满血WiFi6千兆无线家用路由器 139元",
+    "url": "https://www.smzdm.com/p/186196858/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:14Z",
-    "summary": "小小鱼快游天猫精选此款目前活动售价139.9元，下单1件，实付低至132.9元。"
+    "published_at": "2026-11-16T04:03:50Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价139元/件，喜欢可入。"
   },
   {
-    "title": "L&S 梯子家用人字梯子折叠梯多功能单侧人字梯登高梯爬梯 加厚碳钢-红色四步梯TZ10 68.9元",
-    "url": "https://www.smzdm.com/p/186193208/",
+    "title": "三精 液体钙 儿童补钙口服溶液 补钙基础装（幼儿月用量） 55元",
+    "url": "https://www.smzdm.com/p/186196859/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:13Z",
-    "summary": "星期五有惠京东此款目前活动售价78.9元，使用10元首购礼金，下单1件，实付低至68.9元。"
+    "published_at": "2026-11-16T04:03:17Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价55元/件，喜欢可入。"
   },
   {
-    "title": "波司登 儿童羽绒服男女童排骨条羽绒服轻薄连帽大童外套 249元",
-    "url": "https://www.smzdm.com/p/186193205/",
+    "title": "苹果 EarPods 半入耳式有线耳机 白色 Type-C 142元",
+    "url": "https://www.smzdm.com/p/186196854/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:13Z",
-    "summary": "冬日暖阳5050唯品会此款目前活动售价249元，下单1件，实付低至249元。"
+    "published_at": "2026-11-16T04:03:08Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价142元/件，喜欢可入。"
   },
   {
-    "title": "东方甄选 整切调理牛排眼肉厚切静腌牛肉 139元",
-    "url": "https://www.smzdm.com/p/186193206/",
+    "title": "劲牌 劲酒 大桶装实惠装 养生露酒 1x1x2500ml 礼盒装 35 97元（需用券）",
+    "url": "https://www.smzdm.com/p/186196846/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:17:12Z",
-    "summary": "小小鱼快游天猫精选此款目前活动售价155元，下单1件，实付低至139元。"
+    "published_at": "2026-11-16T04:03:00Z",
+    "summary": "小值机器人京东该商品正在热销，领取满99减10元优惠券，最终到手价97元/件，喜欢可入。"
   },
   {
-    "title": "蕉氧芭 可外穿轻薄网纱美背女士运动内衣 减震聚拢健身文胸 36元（需用券）",
-    "url": "https://www.smzdm.com/p/186193189/",
+    "title": "茵芙莎 光透无瑕修饰遮瑕膏 4.5g 125.9元",
+    "url": "https://www.smzdm.com/p/186196852/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:41Z",
-    "summary": "价格优势：京东此款大促，目前活动售价66元，可参加每满49元减30元优惠券活动，下单实付低至36元包邮，感兴趣的值友不容错过。超级划算！"
+    "published_at": "2026-11-16T04:02:38Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价125.9元/件，喜欢可入。"
   },
   {
-    "title": "Hello Kitty 玉桂狗联名女童轻薄羽绒服秋冬新款保暖外套连帽鸭绒内胆洋气童装 224元",
-    "url": "https://www.smzdm.com/p/186193176/",
+    "title": "帮宝适 清新帮系列 纸尿裤 S64片 69.9元（需用券）",
+    "url": "https://www.smzdm.com/p/186196849/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:26Z",
-    "summary": "冬日暖阳5050唯品会此款目前活动售价224元，下单1件，实付低至224元。"
+    "published_at": "2026-11-16T04:02:26Z",
+    "summary": "小值机器人京东该商品正在热销，领取满5.1减5元优惠券，最终到手价69.9元/件，喜欢可入。"
   },
   {
-    "title": "杜康 老窖豪享版 浓香型白酒 52度 750ml*6瓶 整箱装 183.2元",
-    "url": "https://www.smzdm.com/p/186193186/",
+    "title": "天钡 GEM12 迷你台式机 黑色（锐龙R7-8845HS、核芯显卡）无副屏无指纹版 2099元（需用券）",
+    "url": "https://www.smzdm.com/p/186196848/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:24Z",
-    "summary": "狐小翠京东自营此款目前活动售价183.2元，下单1件，实付低至183.2元。"
+    "published_at": "2026-11-16T04:02:08Z",
+    "summary": "小值机器人京东该商品参加满1980减300元优惠券的促销活动，当前到手价2099.00元，降价前售价为2199.00元，本次降幅5%，"
   },
   {
-    "title": "100%新疆A类母婴级棉花被 150cm*200cm 4斤 58元（需用券）",
-    "url": "https://www.smzdm.com/p/186191340/",
+    "title": "三元 特品纯牛奶 250ml*24盒 44.9元",
+    "url": "https://www.smzdm.com/p/186196841/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-15T23:14:20Z",
-    "summary": "千与谦虚京东此款目前活动售价158元，下单领取满150减100元优惠券，下单1件，实付低至58元。"
+    "published_at": "2026-11-16T04:01:18Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价44.9元/件，喜欢可入。"
   },
   {
-    "title": "禾煜 甄选蜜枣 150g 1.8元",
-    "url": "https://www.smzdm.com/p/186193188/",
+    "title": "欧亚 纯牛奶 200g*20盒 49.9元",
+    "url": "https://www.smzdm.com/p/186196840/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:21Z",
-    "summary": "京亚讯京东此款目前活动售价7.8元，下单1件，首购礼减1，使用6减5优惠券（领券中心领取，见截图2“南北干货部分商品可用”这张），实付低至1.8元。"
+    "published_at": "2026-11-16T04:01:13Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价49.9元/件，喜欢可入。"
   },
   {
-    "title": "可口可乐 可乐雪碧芬达含糖无糖碳酸饮料汽水888mL大瓶整箱装餐饮批发 无糖可乐888mL*12瓶 29.9元（需用券）",
-    "url": "https://www.smzdm.com/p/186193179/",
+    "title": "WICKLE 惟呵婴儿洗衣液幼儿宝宝专用儿童抑菌酵素清洗液800ml补充装 800ml*2袋 39.9元",
+    "url": "https://www.smzdm.com/p/186196838/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:21Z",
-    "summary": "食铁猛瘦京东此款目前活动售价39.9元，参与满39减10元活动，下单1件，实付低至29.9元。"
+    "published_at": "2026-11-16T04:01:13Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价39.9元/件，喜欢可入。"
   },
   {
-    "title": "天友 高山鲜4.0鲜牛奶238ml*8瓶130mg原生高钙 27.73元",
-    "url": "https://www.smzdm.com/p/186193185/",
+    "title": "关注领2京豆，小豆子也香香哒，龙京东旗舰店",
+    "url": "https://www.smzdm.com/p/186196829/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:20Z",
-    "summary": "Syeew天猫精选此款目前活动售价59.9元，参与立减26元，淘金币减3.17元，首单礼金减3元优惠活动，下单1件，实付低至27.73元。"
+    "published_at": "2026-11-16T04:00:13Z",
+    "summary": "沙塔帮帮主关注领2京豆哦，新关注！！！"
   },
   {
-    "title": "海底捞 火锅底料 自煮火锅涮菜调味料一料多用 海底捞番茄火锅底料200g 8.33元",
-    "url": "https://www.smzdm.com/p/186193173/",
+    "title": "米芒 创意仿玉白菜百财如意摆件 19.9元",
+    "url": "https://www.smzdm.com/p/186188322/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:20Z",
-    "summary": "狐小翠京东此款目前活动售价15.9元，参与优惠活动，下单3件，实付低至25元，单件低至8.33元。"
+    "published_at": "2026-11-15T20:59:10Z",
+    "summary": "京东商城目前正在活动，下单实付19.9元包邮，近期好价，需要的朋友不要错过~"
   },
   {
-    "title": "佳帮手 海绵胶棉拖把 28cm+1头 14.8元（需用券）",
-    "url": "https://www.smzdm.com/p/186193172/",
+    "title": "金猫 意式拼配铂金咖啡豆500g阿拉比卡咖啡豆1袋 中深烘培 67.9元",
+    "url": "https://www.smzdm.com/p/186196821/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:20Z",
-    "summary": "乌拉乌拉颂京东此款目前活动售价34.8元，满1件减10元，下单领取满29元减10元优惠券，下单1件，实付低至14.8元。"
+    "published_at": "2026-11-16T03:58:17Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价67.9元/件，喜欢可入。"
   },
   {
-    "title": "蕉氧芭 a类棉纯棉运动内裤男士 加长款跑步健身 3条组合 49.9元（需用券）",
-    "url": "https://www.smzdm.com/p/186193167/",
+    "title": "贝亲 植生水三角系列 婴儿润肤油 200ml 27元（需用券）",
+    "url": "https://www.smzdm.com/p/186196817/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:20Z",
-    "summary": "价格优势：京东此款大促，目前活动售价79.90元，可参加每满49元减30元优惠券活动，下单实付低至49.90元包邮，感兴趣的值友不容错过。超级划算！"
+    "published_at": "2026-11-16T03:58:15Z",
+    "summary": "小值机器人京东该商品正在热销，领取满10.1减10元优惠券，最终到手价27元/件，喜欢可入。"
   },
   {
-    "title": "HELLMANN'S Hellmanns 西班牙进口 淡味蛋黄酱 沙拉酱 美乃滋低脂烘焙 251g 18.5元",
-    "url": "https://www.smzdm.com/p/186193181/",
+    "title": "威露士 La系列松木香洗衣液 持久留香去污渍 瓶袋组合装 2kg 2组 32.9元",
+    "url": "https://www.smzdm.com/p/186196823/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:19Z",
-    "summary": "马达加斯加的鹅京东自营此款目前活动售价19.5元，使用1元首购礼金，下单1件，实付低至18.5元。"
+    "published_at": "2026-11-16T03:58:14Z",
+    "summary": "小值机器人京东该商品正在热销，最终到手价32.9元/件，喜欢可入。"
   },
   {
-    "title": "京鲜生 精选东北黄糯玉米300g*8棒 甜黏低脂早餐代餐粗粮真空装 源头直发 15.9元（需用券）",
-    "url": "https://www.smzdm.com/p/186193171/",
+    "title": "达喜 拜耳 达喜胃药 铝碳酸镁咀嚼片0.5克*30片胃痛胃酸胃胀 24.64元（需买3件，共73.92元）",
+    "url": "https://www.smzdm.com/p/186196816/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-16T00:16:19Z",
-    "summary": "星期五有惠京东自营此款目前活动售价18.9元，参与满9减3元活动，下单1件，实付低至15.9元。"
+    "published_at": "2026-11-16T03:58:12Z",
+    "summary": "小值机器人京东该商品正在热销，买3件，实付73.92元，最终到手价24.64元/件，喜欢可入。"
+  },
+  {
+    "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
+    "url": "https://www.ithome.com/1/027/461.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-15T16:14:44Z",
+    "summary": "IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其 基于英特尔酷睿 Ultra X7 处理器 358H ，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。 ME Pro 358H 四盘位 分为日常款"
   },
   {
     "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
@@ -2014,14 +2023,5 @@
     "group": "好价资讯",
     "published_at": "2026-11-15T07:56:03Z",
     "summary": "IT之家 11 月 15 日消息，当地时间周四，自动驾驶技术公司 May Mobility 宣布，计划将自家的自动驾驶系统整合到大众 ID. Buzz 上，让这款电动面包车进入允许无人驾驶出租车运营的市场。 May Mobility 希望利用现有技术平台，为 ID. Buzz 加装相应的硬件和软件，使车辆具备“提前 1"
-  },
-  {
-    "title": "韩国税务师“状元”考生 160 题仅错 1 题，利用 AI 作弊惊动青瓦台",
-    "url": "https://www.ithome.com/1/027/357.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-15T07:55:52Z",
-    "summary": "IT之家 11 月 15 日消息，据韩联社今日报道，韩国总统秘书室长（幕僚长）林光铉 15 日表示，针对今年税务师考试第一名利用微型摄像头和人工智能（AI）作弊一事，青瓦台将于当天下午召开由政策室长主持的会议，商讨应对措施。 这名考生此前因成绩异常突出受到质疑。税务师第一阶段考试共 160 道题， 他仅错一题 ，四门科"
   }
 ]

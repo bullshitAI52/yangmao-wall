@@ -1,16 +1,16 @@
 {
   "schema": "daily-deals.snapshot.v1",
   "note": "公开抓取快照，只含标题、原文链接、时间和来源成败。不含凭证、Cookie、请求头或正文。fetchedAt 过期后不能当作新一轮数据。",
-  "fetchedAt": "2026-11-15T16:16:54.414Z",
-  "fetchedAtBeijing": "2026-11-16 00:16",
-  "freshUntil": "2026-11-15T18:16:54.414Z",
+  "fetchedAt": "2026-11-15T20:16:40.653Z",
+  "fetchedAtBeijing": "2026-11-16 04:16",
+  "freshUntil": "2026-11-15T22:16:40.653Z",
   "roundStatus": "success",
   "sourceHealth": {
     "ok": 7,
     "total": 7
   },
-  "activeCount": 519,
-  "newCount": 32,
+  "activeCount": 543,
+  "newCount": 25,
   "failures": [],
   "sources": [
     {
@@ -18,7 +18,7 @@
       "name": "LINUX DO福利羊毛",
       "ok": true,
       "fetched": 25,
-      "inserted": 8,
+      "inserted": 5,
       "error": null,
       "finalUrl": "https://r.jina.ai/https://linux.do/c/welfare/36.rss"
     },
@@ -27,7 +27,7 @@
       "name": "V2EX推广",
       "ok": true,
       "fetched": 50,
-      "inserted": 3,
+      "inserted": 0,
       "error": null,
       "finalUrl": "https://www.v2ex.com/feed/promotions.xml"
     },
@@ -54,7 +54,7 @@
       "name": "小众软件",
       "ok": true,
       "fetched": 10,
-      "inserted": 1,
+      "inserted": 0,
       "error": null,
       "finalUrl": "https://www.appinn.com/feed/"
     },
@@ -79,6 +79,294 @@
   ],
   "items": [
     {
+      "title": "cdn有冇推荐啊！",
+      "url": "https://www.nodeseek.com/post-1056607-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T20:10:05.000Z",
+      "publishedAtBeijing": "2026-11-16 04:10",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "PIKPAK 开车啦",
+      "url": "https://www.nodeseek.com/post-1056606-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T20:09:54.000Z",
+      "publishedAtBeijing": "2026-11-16 04:09",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "有些google账号网页gemini不让用",
+      "url": "https://www.nodeseek.com/post-1056605-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T20:06:56.000Z",
+      "publishedAtBeijing": "2026-11-16 04:06",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "1200收claude解封号，要谷歌邮箱，过了K，卡付，没用过想试试",
+      "url": "https://www.nodeseek.com/post-1056604-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T20:05:39.000Z",
+      "publishedAtBeijing": "2026-11-16 04:05",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "什么线路都是个笑话，所谓的大厂DMIT在D哥面前照样一坨",
+      "url": "https://www.nodeseek.com/post-1056603-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T20:04:34.000Z",
+      "publishedAtBeijing": "2026-11-16 04:04",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "没有CCmax20, 我就是个废物",
+      "url": "https://www.nodeseek.com/post-1056602-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T20:02:22.000Z",
+      "publishedAtBeijing": "2026-11-16 04:02",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "跟风送几个muse号",
+      "url": "https://linux.do/t/topic/3182017",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:57:54.000Z",
+      "publishedAtBeijing": "2026-11-16 03:57",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "Claude 有中文界面了",
+      "url": "https://www.nodeseek.com/post-1056601-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:56:29.000Z",
+      "publishedAtBeijing": "2026-11-16 03:56",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "「NQ」Centrixnodes 纽约州布法罗 预算vps",
+      "url": "https://www.nodeseek.com/post-1056600-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:53:40.000Z",
+      "publishedAtBeijing": "2026-11-16 03:53",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "用86号的iphone扫描google那个二维码（要求用手机扫才能注册）之后",
+      "url": "https://www.nodeseek.com/post-1056599-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:44:49.000Z",
+      "publishedAtBeijing": "2026-11-16 03:44",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "【NQ】enderhost 1G0.5GCA 留档",
+      "url": "https://www.nodeseek.com/post-1056598-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:41:13.000Z",
+      "publishedAtBeijing": "2026-11-16 03:41",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "深夜冲动消费...",
+      "url": "https://www.nodeseek.com/post-1056597-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:39:11.000Z",
+      "publishedAtBeijing": "2026-11-16 03:39",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "「TQ」Panstar LAX Premium DC2 TQ+IP质量+speedtest单线程测速",
+      "url": "https://www.nodeseek.com/post-1056596-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:37:10.000Z",
+      "publishedAtBeijing": "2026-11-16 03:37",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "CNAME域名求教",
+      "url": "https://www.nodeseek.com/post-1056595-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:27:09.000Z",
+      "publishedAtBeijing": "2026-11-16 03:27",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "不是说zouter的香港是移动快乐🐔吗",
+      "url": "https://www.nodeseek.com/post-1056594-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:26:43.000Z",
+      "publishedAtBeijing": "2026-11-16 03:26",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "拿下拿下",
+      "url": "https://www.nodeseek.com/post-1056593-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:18:37.000Z",
+      "publishedAtBeijing": "2026-11-16 03:18",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "【NQ留档】各家线路机NQ测试",
+      "url": "https://www.nodeseek.com/post-1056592-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:15:05.000Z",
+      "publishedAtBeijing": "2026-11-16 03:15",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "Jetpac Esim 要换手机咋办",
+      "url": "https://www.nodeseek.com/post-1056591-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:05:15.000Z",
+      "publishedAtBeijing": "2026-11-16 03:05",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "美西家宽和TW动态nat哪个更便宜",
+      "url": "https://www.nodeseek.com/post-1056589-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T19:02:11.000Z",
+      "publishedAtBeijing": "2026-11-16 03:02",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "BLG夺冠 bilibili赠送大会员7天",
+      "url": "https://linux.do/t/topic/3181987",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "会员订阅",
+      "publishedAt": "2026-11-15T19:00:27.000Z",
+      "publishedAtBeijing": "2026-11-16 03:00",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "求推有没有专门做短剧或者精选分类好短剧类型的emby影视服",
+      "url": "https://www.nodeseek.com/post-1056588-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T18:53:23.000Z",
+      "publishedAtBeijing": "2026-11-16 02:53",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "muse视频不了，怎么办呢",
+      "url": "https://www.nodeseek.com/post-1056587-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-15T18:45:59.000Z",
+      "publishedAtBeijing": "2026-11-16 02:45",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "再送一个muse号，已经有的佬点麻烦让给没有的",
+      "url": "https://linux.do/t/topic/3181832",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "其他",
+      "publishedAt": "2026-11-15T16:58:42.000Z",
+      "publishedAtBeijing": "2026-11-16 00:58",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "b站免费大会员限时领取",
+      "url": "https://linux.do/t/topic/3181817",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "会员订阅",
+      "publishedAt": "2026-11-15T16:51:41.000Z",
+      "publishedAtBeijing": "2026-11-16 00:51",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
       "title": "美国直播推荐哪一家机器？求大佬推荐",
       "url": "https://www.nodeseek.com/post-1056448-1",
       "sourceId": "nodeseek",
@@ -88,7 +376,7 @@
       "publishedAtBeijing": "2026-11-16 00:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "每月16号可以领免费域名",
@@ -100,7 +388,7 @@
       "publishedAtBeijing": "2026-11-16 00:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "感觉gemini说话比gpt有人味",
@@ -112,7 +400,7 @@
       "publishedAtBeijing": "2026-11-16 00:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Gemini 4 Argon 和 Gemini 4 Carbon 分别相当于GPT什么水平？",
@@ -124,7 +412,7 @@
       "publishedAtBeijing": "2026-11-16 00:15",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "溢价300+剩余价值出Zorocloud 日本真独享静态家宽",
@@ -136,7 +424,7 @@
       "publishedAtBeijing": "2026-11-16 00:14",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "[TQ] MINIBOX-10-512 只测不评",
@@ -148,7 +436,7 @@
       "publishedAtBeijing": "2026-11-16 00:13",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "有没有日本性价比高的VPS？",
@@ -160,7 +448,7 @@
       "publishedAtBeijing": "2026-11-16 00:13",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "650出chatgpt team高级席位",
@@ -172,7 +460,7 @@
       "publishedAtBeijing": "2026-11-16 00:12",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "求马来家宽",
@@ -182,6 +470,18 @@
       "category": "其他",
       "publishedAt": "2026-11-15T16:11:22.000Z",
       "publishedAtBeijing": "2026-11-16 00:11",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "还有人没有muse号嘛？免费送几个",
+      "url": "https://linux.do/t/topic/3181717",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "免费白嫖",
+      "publishedAt": "2026-11-15T16:10:55.000Z",
+      "publishedAtBeijing": "2026-11-16 00:10",
       "expiresAt": null,
       "expiresAtBeijing": null,
       "isNew": true
@@ -196,7 +496,7 @@
       "publishedAtBeijing": "2026-11-16 00:10",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "刷了 b 站 ai 娘的相关视频..",
@@ -208,7 +508,7 @@
       "publishedAtBeijing": "2026-11-16 00:07",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "aethercloud la 2.2有货了",
@@ -220,7 +520,7 @@
       "publishedAtBeijing": "2026-11-16 00:07",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【出】Ciallo DE 9929 六折 续费 23.94/月",
@@ -232,7 +532,7 @@
       "publishedAtBeijing": "2026-11-16 00:07",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Claude这两天还有弹门户kyc吗",
@@ -244,7 +544,7 @@
       "publishedAtBeijing": "2026-11-16 00:06",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "260忍痛割爱出AKILE-HKLite-One(元旦快乐)",
@@ -256,7 +556,7 @@
       "publishedAtBeijing": "2026-11-16 00:06",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "绿云的软银线路 电信用着如何？",
@@ -268,7 +568,7 @@
       "publishedAtBeijing": "2026-11-16 00:06",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "收一个OVH的 亚洲或者德国机房 大内存机器",
@@ -280,7 +580,7 @@
       "publishedAtBeijing": "2026-11-16 00:06",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "已出Taipei101 TEX3 1.65刀/月",
@@ -292,7 +592,7 @@
       "publishedAtBeijing": "2026-11-16 00:05",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "我真几把的服了 操 傻逼网络",
@@ -304,7 +604,7 @@
       "publishedAtBeijing": "2026-11-16 00:05",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "家宽提问",
@@ -316,7 +616,7 @@
       "publishedAtBeijing": "2026-11-16 00:04",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "不要浪费B站大会员 ，怎么才能最大限度使用",
@@ -328,7 +628,7 @@
       "publishedAtBeijing": "2026-11-15 23:21",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 最优方案最低价格",
@@ -340,7 +640,7 @@
       "publishedAtBeijing": "2026-11-15 23:19",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "GPT Plus / Claude Pro / Grok 代充和成品号，新人卖家，说点实话",
@@ -352,7 +652,7 @@
       "publishedAtBeijing": "2026-11-15 23:01",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "华为云白嫖5个月新加坡 VPS 能做什么？",
@@ -364,7 +664,7 @@
       "publishedAtBeijing": "2026-11-15 22:38",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "20261115——今日份 1800$ Astra",
@@ -376,7 +676,7 @@
       "publishedAtBeijing": "2026-11-15 22:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "gpt退款流羊毛",
@@ -388,7 +688,7 @@
       "publishedAtBeijing": "2026-11-15 20:57",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "ds羊毛，蹬不动，给能者尝试",
@@ -400,7 +700,7 @@
       "publishedAtBeijing": "2026-11-15 20:46",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "BundleHunt 2026 黑五软件特卖：8 款值得购买",
@@ -412,7 +712,7 @@
       "publishedAtBeijing": "2026-11-15 20:43",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【MoonUp API】 AZ GPT 分组 6.2 模型已同步上线, 倍率0.8x。进群回帖送 5 刀，反馈再送 3 刀",
@@ -424,7 +724,7 @@
       "publishedAtBeijing": "2026-11-15 20:40",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【已失效】50x ai 注册有 100 美金的羊毛",
@@ -436,7 +736,7 @@
       "publishedAtBeijing": "2026-11-15 20:39",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "腾讯版Muse（新用户可试用1个月）",
@@ -448,7 +748,7 @@
       "publishedAtBeijing": "2026-11-15 20:12",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "seedance 全系列居然能低到这么低。我也是服了",
@@ -460,7 +760,7 @@
       "publishedAtBeijing": "2026-11-15 20:10",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "腾讯版Muse（新用户可免费体验1个月）",
@@ -6290,18 +6590,6 @@
       "category": "会员订阅",
       "publishedAt": "2026-11-10T21:00:48.000Z",
       "publishedAtBeijing": "2026-11-11 05:00",
-      "expiresAt": null,
-      "expiresAtBeijing": null,
-      "isNew": false
-    },
-    {
-      "title": "彻底破了！塞尔达传说：王国之泪 / 马力欧原生移植 PC 电脑版 (免模拟器直接运行)",
-      "url": "https://www.iplaysoft.com/totk-recomp.html",
-      "sourceId": "iplaysoft",
-      "sourceName": "异次元软件世界",
-      "category": "其他",
-      "publishedAt": "2026-11-08T17:38:43.000Z",
-      "publishedAtBeijing": "2026-11-09 01:38",
       "expiresAt": null,
       "expiresAtBeijing": null,
       "isNew": false
