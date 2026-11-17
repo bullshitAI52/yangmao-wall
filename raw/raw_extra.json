@@ -1,11 +1,20 @@
 [
   {
+    "title": "天国：拯救2",
+    "url": "https://store.steampowered.com/app/1771300",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-17T01:58:27.995889Z",
+    "summary": "-67% ¥228.00→¥75.24"
+  },
+  {
     "title": "红色沙漠：增强版",
     "url": "https://store.steampowered.com/app/3321460",
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
+    "published_at": "2026-11-17T01:58:27.995889Z",
     "summary": "-20% ¥268.00→¥214.40"
   },
   {
@@ -14,7 +23,7 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
+    "published_at": "2026-11-17T01:58:27.995889Z",
     "summary": "-10% ¥42.00→¥37.80"
   },
   {
@@ -23,17 +32,8 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
+    "published_at": "2026-11-17T01:58:27.995889Z",
     "summary": "-35% ¥28.00→¥18.20"
-  },
-  {
-    "title": "Dungeonbound",
-    "url": "https://store.steampowered.com/app/5200620",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
-    "summary": "-10% ¥42.00→¥37.80"
   },
   {
     "title": "Bodycam",
@@ -41,17 +41,35 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
+    "published_at": "2026-11-17T01:58:27.995889Z",
     "summary": "-20% ¥128.00→¥102.40"
   },
   {
-    "title": "Euro Truck Simulator 2",
-    "url": "https://store.steampowered.com/app/227300",
+    "title": "Dungeonbound",
+    "url": "https://store.steampowered.com/app/5200620",
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
-    "summary": "-75% ¥92.99→¥23.24"
+    "published_at": "2026-11-17T01:58:27.995889Z",
+    "summary": "-10% ¥42.00→¥37.80"
+  },
+  {
+    "title": "女神异闻录5皇家版",
+    "url": "https://store.steampowered.com/app/1687950",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-17T01:58:27.995889Z",
+    "summary": "-70% ¥268.00→¥80.40"
+  },
+  {
+    "title": "沉星之序",
+    "url": "https://store.steampowered.com/app/499170",
+    "source_id": "steam",
+    "source_name": "Steam 特价",
+    "group": "游戏专区",
+    "published_at": "2026-11-17T01:58:27.995889Z",
+    "summary": "-20% ¥98.00→¥78.40"
   },
   {
     "title": "灵渡之境",
@@ -59,35 +77,17 @@
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
+    "published_at": "2026-11-17T01:58:27.995889Z",
     "summary": "-10% ¥68.00→¥61.20"
   },
   {
-    "title": "天国：拯救2",
-    "url": "https://store.steampowered.com/app/1771300",
+    "title": "人中之龙０ 誓约的场所 导演剪辑版",
+    "url": "https://store.steampowered.com/app/2988580",
     "source_id": "steam",
     "source_name": "Steam 特价",
     "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
-    "summary": "-67% ¥228.00→¥75.24"
-  },
-  {
-    "title": "How They Built the Pyramids",
-    "url": "https://store.steampowered.com/app/5458210",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
-    "summary": "-30% ¥22.00→¥15.40"
-  },
-  {
-    "title": "MONOMOON: 幻月迷踪",
-    "url": "https://store.steampowered.com/app/3285880",
-    "source_id": "steam",
-    "source_name": "Steam 特价",
-    "group": "游戏专区",
-    "published_at": "2026-11-16T20:16:51.544612Z",
-    "summary": "-10% ¥42.00→¥37.80"
+    "published_at": "2026-11-17T01:58:27.995889Z",
+    "summary": "-60% ¥238.00→¥95.20"
   },
   {
     "title": "Fanatical Movember Charity Bundle 2026: Get 10 Steam Games and 2 DLCs for $8.99",
@@ -178,6 +178,87 @@
     "group": "游戏专区",
     "published_at": "2026-11-10T16:32:06Z",
     "summary": "The bundle celebrates ten years of the Beholder series and brings together a selection of games from publisher Alawar, including Beholder series. The post Humbl"
+  },
+  {
+    "title": "求CSDN VIP资源",
+    "url": "https://www.52pojie.cn/thread-2138119-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T22:56:40Z",
+    "summary": ""
+  },
+  {
+    "title": "求阿黛尔Adele专辑",
+    "url": "https://www.52pojie.cn/thread-2138115-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T18:17:21Z",
+    "summary": ""
+  },
+  {
+    "title": "跪求俄语零基础到进阶资料+英语零基础4-6级资料",
+    "url": "https://www.52pojie.cn/thread-2138114-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T18:07:59Z",
+    "summary": ""
+  },
+  {
+    "title": "求MK8215 MAS902量产固件GCPMCADH.bin",
+    "url": "https://www.52pojie.cn/thread-2138106-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T16:00:19Z",
+    "summary": ""
+  },
+  {
+    "title": "求助樊登读书2021年11月20日 刘邦",
+    "url": "https://www.52pojie.cn/thread-2138102-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T15:31:50Z",
+    "summary": ""
+  },
+  {
+    "title": "新人作死 の 修理大版主涛之雨-de-吾爱代码块",
+    "url": "https://www.52pojie.cn/thread-2138095-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T14:45:12Z",
+    "summary": "下面第1段代码是大版主@涛之雨 n年之前的脚本代码， 借助ai更新了下，实现： 1，有多个代码快块的时候，每个代码块都有各自的折叠/显示按钮，大版主的好像最多只是两个。 2，有多个代码块的时候，有个总的折叠按钮，同样这个总的按钮是可以拖动移动位置的。 大家可 ..."
+  },
+  {
+    "title": "DLL图片资源提取器",
+    "url": "https://www.52pojie.cn/thread-2138091-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T13:22:44Z",
+    "summary": "\\\"\\\"\\\" DLL 图片资源提取器 (DLL Image Resource Extractor) ================================================== 功能: * 批量提取 .NET DLL / .g.resources 文件中内嵌的图片资源 (PNG / CUR / "
+  },
+  {
+    "title": "求一下26或者27年的王道计算机408考研资源",
+    "url": "https://www.52pojie.cn/thread-2138083-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T12:26:04Z",
+    "summary": ""
+  },
+  {
+    "title": "我外甥遇到了个勒索病毒，请求各位大佬锁手机",
+    "url": "https://www.52pojie.cn/thread-2138079-1-1.html",
+    "source_id": "52pojie",
+    "source_name": "吾爱破解",
+    "group": "论坛社区",
+    "published_at": "2026-11-16T12:12:46Z",
+    "summary": "目前我自己在AI破中 有什么发帖不规范的请指出 https://qfile.qq.com/q/KQwHr94soK 这是下载的链接"
   },
   {
     "title": "论坛反反调试插件：大家用着正常么？",
@@ -279,85 +360,13 @@
     "summary": "一、工具简介：TraceRouteOK 是一款专为 Windows 设计的 轻量、免费、图形化路由跟踪工具，用于可视化显示数据包从本机到目标服务器经过的所有网络节点（路由器）、延迟与丢包情况，是网络排障的高效利器。[hr]二、主要功 ..."
   },
   {
-    "title": "直播推拉流 RTSP RTMP SRT 服务器怎么搭建",
-    "url": "https://www.52pojie.cn/thread-2138040-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:34:41Z",
-    "summary": ""
-  },
-  {
-    "title": "求企查查/天眼查/爱企查等VIP 查一下公司详细的资料 谢谢",
-    "url": "https://www.52pojie.cn/thread-2138039-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:31:42Z",
-    "summary": ""
-  },
-  {
-    "title": "有带OCR和云文档的wps 真香版分享吗？",
-    "url": "https://www.52pojie.cn/thread-2138038-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:29:26Z",
-    "summary": ""
-  },
-  {
-    "title": "3D建模工具 Blender v5.3.0",
-    "url": "https://www.52pojie.cn/thread-2138034-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:22:16Z",
-    "summary": "一、工具简介：Blender 是一款免费、开源、跨平台的全能 3D 创作软件，覆盖建模、雕刻、材质、渲染、动画、特效、合成、剪辑等全流程，广泛用于影视、游戏、建筑、产品设计与 3D 打印等领域。[hr]二、核心概况： 1. 开 ..."
-  },
-  {
-    "title": "工图网ppt下载求助。",
-    "url": "https://www.52pojie.cn/thread-2138033-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:20:42Z",
-    "summary": ""
-  },
-  {
-    "title": "csdn 这个谁能下载帮忙下",
-    "url": "https://www.52pojie.cn/thread-2138032-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:17:00Z",
-    "summary": ""
-  },
-  {
-    "title": "求一首说唱歌曲",
-    "url": "https://www.52pojie.cn/thread-2138031-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:12:04Z",
-    "summary": ""
-  },
-  {
-    "title": "请大佬帮忙下一个PPT资料，多谢！",
-    "url": "https://www.52pojie.cn/thread-2138027-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T08:02:57Z",
-    "summary": "请大佬帮忙下一个PPT资料，多谢！ https://wenku.baidu.com/view/a10e09736adc5022aaea998fcc22bcd127ff42e9.html?fr=income1-doc-search&_wkts_=1794816017465&wkQuery=小学四年级语文老师家长会"
-  },
-  {
-    "title": "plc学习资料",
-    "url": "https://www.52pojie.cn/thread-2138021-1-1.html",
-    "source_id": "52pojie",
-    "source_name": "吾爱破解",
-    "group": "论坛社区",
-    "published_at": "2026-11-16T07:41:39Z",
-    "summary": ""
+    "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+    "url": "https://sspai.com/post/119160",
+    "source_id": "sspai",
+    "source_name": "少数派",
+    "group": "软件精选",
+    "published_at": "2026-11-16T23:57:40Z",
+    "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文"
   },
   {
     "title": "派评 | 近期值得关注的 App",
@@ -439,15 +448,6 @@
     "group": "软件精选",
     "published_at": "2026-11-13T03:35:48Z",
     "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文"
-  },
-  {
-    "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-    "url": "https://sspai.com/post/118966",
-    "source_id": "sspai",
-    "source_name": "少数派",
-    "group": "软件精选",
-    "published_at": "2026-11-13T00:48:17Z",
-    "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文"
   },
   {
     "title": "华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2",
@@ -873,15 +873,6 @@
     "summary": "近日，跨平台 SDK 版本管理工具 vmr (Version Manager) 迎来重要更新。作为一款专为现代开发者设计的轻量级工具，vmr 致力于解决开发者在同一台机器上管理多套开发工具（如 Go、Node.js、Python、JDK、Rust、Lua 等）版本的痛点，实现“一条命令装、切、卸”，无需管理员权限，绝不"
   },
   {
-    "title": "ip2region 3.19.0 发布 - 数据更新 & Logstash 插件 & CI 测试",
-    "url": "https://www.oschina.net/news/503494",
-    "source_id": "oschina",
-    "source_name": "开源中国",
-    "group": "软件精选",
-    "published_at": "2026-11-10T01:54:35Z",
-    "summary": "ip2region 是一个离线的 IP 数据管理框架和定位库，同时支持 IPv4 和 IPv6，支持亿级别的 IP 断管理，10 微秒级别的查询性能，提供了很多主流编程语言的 xdb 数据格式的生成和查询实现。 ip2region 官方社区已正式上线旨在强化 IP 相关的工具链和数据服务，目前提供了稳定的 商用离线数据"
-  },
-  {
     "title": "Cal.com v7",
     "url": "https://www.producthunt.com/products/cal",
     "source_id": "producthunt",
@@ -889,159 +880,6 @@
     "group": "软件精选",
     "published_at": "2026-11-15T14:46:35Z",
     "summary": "Cal.com now has events, discover, an assistant + more Discussion | Link"
-  },
-  {
-    "title": "Intelligent Eyewear",
-    "url": "https://www.producthunt.com/products/sumsung",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T02:23:37Z",
-    "summary": "Samsung and Google bring Gemini AI to smart eyewear Discussion | Link"
-  },
-  {
-    "title": "Pine Drama Studio",
-    "url": "https://www.producthunt.com/products/pine-drama-studio",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T00:43:18Z",
-    "summary": "The open-source Cursor for AI filmmaking Discussion | Link"
-  },
-  {
-    "title": "AgentWatch",
-    "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T04:57:18Z",
-    "summary": "Monitor AI shopping agent sales and visibility on Shopify Discussion | Link"
-  },
-  {
-    "title": "StateWeave",
-    "url": "https://www.producthunt.com/products/stateweave",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T20:32:35Z",
-    "summary": "Test your AI agent on working clones of the apps it uses Discussion | Link"
-  },
-  {
-    "title": "Notebook to Notes",
-    "url": "https://www.producthunt.com/products/notebook-to-notes",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-16T01:20:51Z",
-    "summary": "Move your OneNote notebooks to Apple Notes, 100% offline Discussion | Link"
-  },
-  {
-    "title": "Blomma for Organizations",
-    "url": "https://www.producthunt.com/products/blomma",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T20:57:01Z",
-    "summary": "Scale your people at the speed of your business Discussion | Link"
-  },
-  {
-    "title": "Punchcutter",
-    "url": "https://www.producthunt.com/products/punchcutter",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T08:59:05Z",
-    "summary": "Turn a sentence or your handwriting into a real font family Discussion | Link"
-  },
-  {
-    "title": "ChatGPT Wallet",
-    "url": "https://www.producthunt.com/products/chatgpt",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T18:06:13Z",
-    "summary": "Let ChatGPT agents buy things without seeing your card Discussion | Link"
-  },
-  {
-    "title": "Trusty CSV",
-    "url": "https://www.producthunt.com/products/trusty-csv",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T09:19:42Z",
-    "summary": "Edit CSV files like code, not like a spreadsheet Discussion | Link"
-  },
-  {
-    "title": "Laurence",
-    "url": "https://www.producthunt.com/products/laurence",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T23:52:35Z",
-    "summary": "Build a frontier e-commerce growth system Discussion | Link"
-  },
-  {
-    "title": "Papyras",
-    "url": "https://www.producthunt.com/products/papyras",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T08:30:58Z",
-    "summary": "For people who still read the last page Discussion | Link"
-  },
-  {
-    "title": "Curates",
-    "url": "https://www.producthunt.com/products/curates",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-11T20:36:29Z",
-    "summary": "The all-in-one platform for creators Discussion | Link"
-  },
-  {
-    "title": "Fluid",
-    "url": "https://www.producthunt.com/products/kugelaudio",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-13T08:49:47Z",
-    "summary": "speech-to-speech built to solve problems Discussion | Link"
-  },
-  {
-    "title": "ByteVoice",
-    "url": "https://www.producthunt.com/products/bytevoice",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-16T01:45:10Z",
-    "summary": "Talk to your coding agents and hear them back Discussion | Link"
-  },
-  {
-    "title": "Degla AI",
-    "url": "https://www.producthunt.com/products/degla-ai",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-12T17:20:36Z",
-    "summary": "Your intent. Onboard Autonomous Execution. Discussion | Link"
-  },
-  {
-    "title": "Puffin",
-    "url": "https://www.producthunt.com/products/puffin-2",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T19:51:59Z",
-    "summary": "Identity and inboxes for AI agents Discussion | Link"
-  },
-  {
-    "title": "Flamigo",
-    "url": "https://www.producthunt.com/products/flamigo",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-10T02:54:22Z",
-    "summary": "Turn rough notes into beautifully designed slides Discussion | Link"
   },
   {
     "title": "Centralize",
@@ -1053,22 +891,31 @@
     "summary": "Relationship Workspace for Enterprise Deal Teams Discussion | Link"
   },
   {
-    "title": "Kafkador",
-    "url": "https://www.producthunt.com/products/kafkador",
+    "title": "Papyras",
+    "url": "https://www.producthunt.com/products/papyras",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-13T21:49:23Z",
-    "summary": "A console for to manage, observe & play Apache Kafka Discussion | Link"
+    "published_at": "2026-11-15T08:30:58Z",
+    "summary": "For people who still read the last page Discussion | Link"
   },
   {
-    "title": "Glifa",
-    "url": "https://www.producthunt.com/products/glifa",
+    "title": "StateWeave",
+    "url": "https://www.producthunt.com/products/stateweave",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-15T12:25:03Z",
-    "summary": "The Markdown editor for Mac you can ask for anything Discussion | Link"
+    "published_at": "2026-11-15T20:32:35Z",
+    "summary": "Test your AI agent on working clones of the apps it uses Discussion | Link"
+  },
+  {
+    "title": "Trusty CSV",
+    "url": "https://www.producthunt.com/products/trusty-csv",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-15T09:19:42Z",
+    "summary": "Edit CSV files like code, not like a spreadsheet Discussion | Link"
   },
   {
     "title": "Pharen Hub",
@@ -1080,6 +927,33 @@
     "summary": "One AI workspace for your whole company Discussion | Link"
   },
   {
+    "title": "ChatGPT Wallet",
+    "url": "https://www.producthunt.com/products/chatgpt",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T18:06:13Z",
+    "summary": "Let ChatGPT agents buy things without seeing your card Discussion | Link"
+  },
+  {
+    "title": "Notebook to Notes",
+    "url": "https://www.producthunt.com/products/notebook-to-notes",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-16T01:20:51Z",
+    "summary": "Move your OneNote notebooks to Apple Notes, 100% offline Discussion | Link"
+  },
+  {
+    "title": "Intelligent Eyewear",
+    "url": "https://www.producthunt.com/products/sumsung",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T02:23:37Z",
+    "summary": "Samsung and Google bring Gemini AI to smart eyewear Discussion | Link"
+  },
+  {
     "title": "UI SDK by Vercel",
     "url": "https://www.producthunt.com/products/ui-sdk",
     "source_id": "producthunt",
@@ -1089,22 +963,13 @@
     "summary": "Give AI agents the building blocks to create UI Discussion | Link"
   },
   {
-    "title": "Findy",
-    "url": "https://www.producthunt.com/products/findy-3",
+    "title": "Pine Drama Studio",
+    "url": "https://www.producthunt.com/products/pine-drama-studio",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-13T16:12:25Z",
-    "summary": "Find Files on Your Mac by what you remember Discussion | Link"
-  },
-  {
-    "title": "Freebuff",
-    "url": "https://www.producthunt.com/products/freebuff-2",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "group": "软件精选",
-    "published_at": "2026-11-15T17:59:28Z",
-    "summary": "The 100% free coding agent Discussion | Link"
+    "published_at": "2026-11-15T00:43:18Z",
+    "summary": "The open-source Cursor for AI filmmaking Discussion | Link"
   },
   {
     "title": "LingoMic",
@@ -1116,6 +981,33 @@
     "summary": "Speak your language in meetings, they hear theirs Discussion | Link"
   },
   {
+    "title": "Findy",
+    "url": "https://www.producthunt.com/products/findy-3",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T16:12:25Z",
+    "summary": "Find Files on Your Mac by what you remember Discussion | Link"
+  },
+  {
+    "title": "Flamigo",
+    "url": "https://www.producthunt.com/products/flamigo",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-10T02:54:22Z",
+    "summary": "Turn rough notes into beautifully designed slides Discussion | Link"
+  },
+  {
+    "title": "Degla AI",
+    "url": "https://www.producthunt.com/products/degla-ai",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-12T17:20:36Z",
+    "summary": "Your intent. Onboard Autonomous Execution. Discussion | Link"
+  },
+  {
     "title": "LexiCAD",
     "url": "https://www.producthunt.com/products/lexicad",
     "source_id": "producthunt",
@@ -1125,58 +1017,103 @@
     "summary": "Describe a part in plain language to get a CAD design Discussion | Link"
   },
   {
-    "title": "Agentic Canvas",
-    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "title": "Curates",
+    "url": "https://www.producthunt.com/products/curates",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-15T06:22:09Z",
-    "summary": "Free Agentic Design Canvas - A visual way to work with AI Discussion | Link"
+    "published_at": "2026-11-11T20:36:29Z",
+    "summary": "The all-in-one platform for creators Discussion | Link"
   },
   {
-    "title": "Rakazo",
-    "url": "https://www.producthunt.com/products/rakazo",
+    "title": "Blomma for Organizations",
+    "url": "https://www.producthunt.com/products/blomma",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-13T18:46:58Z",
-    "summary": "The open source Grok Bot alternative you actually own Discussion | Link"
+    "published_at": "2026-11-13T20:57:01Z",
+    "summary": "Scale your people at the speed of your business Discussion | Link"
   },
   {
-    "title": "Emayler",
-    "url": "https://www.producthunt.com/products/emayler",
+    "title": "Puffin",
+    "url": "https://www.producthunt.com/products/puffin-2",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-12T23:32:53Z",
-    "summary": "Custom email on your domain, minus the headache Discussion | Link"
+    "published_at": "2026-11-15T19:51:59Z",
+    "summary": "Identity and inboxes for AI agents Discussion | Link"
   },
   {
-    "title": "Frevana Multiplayer",
-    "url": "https://www.producthunt.com/products/frevana-2",
+    "title": "ByteVoice",
+    "url": "https://www.producthunt.com/products/bytevoice",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-10T05:18:49Z",
-    "summary": "AI that grows your business alongside your team Discussion | Link"
+    "published_at": "2026-11-16T01:45:10Z",
+    "summary": "Talk to your coding agents and hear them back Discussion | Link"
   },
   {
-    "title": "Talyn",
-    "url": "https://www.producthunt.com/products/talyn",
+    "title": "Laurence",
+    "url": "https://www.producthunt.com/products/laurence",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-12T10:07:59Z",
-    "summary": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link"
+    "published_at": "2026-11-12T23:52:35Z",
+    "summary": "Build a frontier e-commerce growth system Discussion | Link"
   },
   {
-    "title": "Pixel Office",
-    "url": "https://www.producthunt.com/products/pixel-office-3",
+    "title": "AgentWatch",
+    "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
     "source_id": "producthunt",
     "source_name": "Product Hunt",
     "group": "软件精选",
-    "published_at": "2026-11-12T16:47:12Z",
-    "summary": "Run a team of AI agents from a pixel-art office Discussion | Link"
+    "published_at": "2026-11-12T04:57:18Z",
+    "summary": "Monitor AI shopping agent sales and visibility on Shopify Discussion | Link"
+  },
+  {
+    "title": "Glifa",
+    "url": "https://www.producthunt.com/products/glifa",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-15T12:25:03Z",
+    "summary": "The Markdown editor for Mac you can ask for anything Discussion | Link"
+  },
+  {
+    "title": "Fluid",
+    "url": "https://www.producthunt.com/products/kugelaudio",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T08:49:47Z",
+    "summary": "speech-to-speech built to solve problems Discussion | Link"
+  },
+  {
+    "title": "Punchcutter",
+    "url": "https://www.producthunt.com/products/punchcutter",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-15T08:59:05Z",
+    "summary": "Turn a sentence or your handwriting into a real font family Discussion | Link"
+  },
+  {
+    "title": "Kafkador",
+    "url": "https://www.producthunt.com/products/kafkador",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T21:49:23Z",
+    "summary": "A console for to manage, observe & play Apache Kafka Discussion | Link"
+  },
+  {
+    "title": "Freebuff",
+    "url": "https://www.producthunt.com/products/freebuff-2",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-15T17:59:28Z",
+    "summary": "The 100% free coding agent Discussion | Link"
   },
   {
     "title": "Privacyboard",
@@ -1188,6 +1125,60 @@
     "summary": "Privacy compliance on autopilot Discussion | Link"
   },
   {
+    "title": "Talyn",
+    "url": "https://www.producthunt.com/products/talyn",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-12T10:07:59Z",
+    "summary": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link"
+  },
+  {
+    "title": "Emayler",
+    "url": "https://www.producthunt.com/products/emayler",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-12T23:32:53Z",
+    "summary": "Custom email on your domain, minus the headache Discussion | Link"
+  },
+  {
+    "title": "Pixel Office",
+    "url": "https://www.producthunt.com/products/pixel-office-3",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-12T16:47:12Z",
+    "summary": "Run a team of AI agents from a pixel-art office Discussion | Link"
+  },
+  {
+    "title": "Rakazo",
+    "url": "https://www.producthunt.com/products/rakazo",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-13T18:46:58Z",
+    "summary": "The open source Grok Bot alternative you actually own Discussion | Link"
+  },
+  {
+    "title": "Frevana Multiplayer",
+    "url": "https://www.producthunt.com/products/frevana-2",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-10T05:18:49Z",
+    "summary": "AI that grows your business alongside your team Discussion | Link"
+  },
+  {
+    "title": "Agentic Canvas",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "group": "软件精选",
+    "published_at": "2026-11-15T06:22:09Z",
+    "summary": "Free Agentic Design Canvas - A visual way to work with AI Discussion | Link"
+  },
+  {
     "title": "Remindly",
     "url": "https://www.producthunt.com/products/remindly-6",
     "source_id": "producthunt",
@@ -1197,274 +1188,697 @@
     "summary": "Notes that remind you, on iPhone, iPad, Mac and web Discussion | Link"
   },
   {
-    "title": "马勒 适配宝来捷达高尔夫帕萨特 1.9TDI 柴油车机滤马勒机油滤芯格清器 16.5元",
-    "url": "https://www.smzdm.com/p/186264523/",
+    "title": "移动端：COLOR LOMO 固色护发素 灰色 87.1元（淘金币可抵3.37元起）",
+    "url": "https://www.smzdm.com/p/186276564/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:14:13Z",
-    "summary": "小值机器人天猫商城该商品参加售价立减3.3的促销活动，当前到手价16.50元，降价前售价为20.40元，本次降幅19%，与上次爆料价相等。"
+    "published_at": "2026-11-17T09:58:43Z",
+    "summary": "小值机器人天猫国际该商品正在促销，最终到手价87.1元/件，喜欢可入。使用淘金币再省3.37元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "方太 JZT-TF25G 5.2kW大火力 液化气 嵌入式燃气灶 1399.1元（需用券）",
-    "url": "https://www.smzdm.com/p/186264522/",
+    "title": "移动端：化妆镜带灯led半圆灯带台式桌面可旋转补光智能梳妆镜触控美妆镜 77.1元（淘金币可抵2.97元起）",
+    "url": "https://www.smzdm.com/p/186276192/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:13:17Z",
-    "summary": "小值机器人苏宁易购该商品参加满1000减50元优惠券的促销活动，当前到手价1399.10元，降价前售价为1799.45元，本次降幅22%，低于上次爆料价1799.45元。喜欢的值友们不要错过~"
+    "published_at": "2026-11-17T09:58:43Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：【旋转款半圆无灯】白色40cm天猫商城该商品正在促销，领取满78减10元优惠券，最终到手价77.1元/件，喜欢可入。使用淘金币再省2.97元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "88VIP：立白 平衡点8合1洁净MINI洗碗块 33.15元（需用券）",
-    "url": "https://www.smzdm.com/p/186264506/",
+    "title": "移动端：除霉魔盒去霉味霉斑霉菌神器除房间潮湿非啫喱车内防霉剂家用厨房 24.99元（淘金币可抵0.15元起）",
+    "url": "https://www.smzdm.com/p/186276144/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:16Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价33.15元/件，喜欢可入。"
+    "published_at": "2026-11-17T09:58:43Z",
+    "summary": "小值机器人该价格商品规格：净含量：150g天猫商城该商品正在促销，领取88VIP 95折优惠券，最终到手价24.99元/件，喜欢可入。使用淘金币再省0.15元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：恒顺 六年 镇江香醋 580ml 32.9元（淘金币可抵2元起）",
-    "url": "https://www.smzdm.com/p/186264504/",
+    "title": "移动端：美丽诺 芦荟胶250ml 晒后修护补水保湿祛痘新西兰 90.8元（淘金币可抵5.1元起）",
+    "url": "https://www.smzdm.com/p/186275732/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:16Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取减7.0元优惠券，最终到手价32.9元/件，喜欢可入。使用淘金币再省2元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:43Z",
+    "summary": "小值机器人天猫国际该商品正在促销，最终到手价90.8元/件，喜欢可入。使用淘金币再省5.1元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：川红 金85特级红茶 44元（淘金币可抵8.96元起）",
-    "url": "https://www.smzdm.com/p/186264503/",
+    "title": "移动端：摇滚动物园 香氛护理护手霜身体乳补水保湿留香 194元（淘金币可抵1.59元起）",
+    "url": "https://www.smzdm.com/p/186276592/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:16Z",
-    "summary": "小值机器人天猫商城该商品正在热销，领取满100减45元优惠券，最终到手价44元/件，喜欢可入。使用淘金币再省8.96元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：香味：好「欣」情香氛套组C天猫商城该商品正在促销，领取满317减50元，88VIP消费券 满200减25元优惠券，最终到手价194元/件，喜欢可入。使用淘金币再省1.59元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：洁柔 油画系列 抽纸 4层*100抽*20包(195*155mm) 37.9元（淘金币可抵2.2元起）",
-    "url": "https://www.smzdm.com/p/186264492/",
+    "title": "移动端：NONIO 狮王NONIO氨基酸条状装漱口水长效清新清洁无酒精1一次性便携儿童 17.03元（淘金币可抵1.77元起）",
+    "url": "https://www.smzdm.com/p/186276331/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:16Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价37.9元/件，喜欢可入。使用淘金币再省2.2元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：【果味12条】鲜萃桃桃+黑莓月桂叶（3袋）天猫商城该商品正在促销，买2件，实付34.06元，最终到手价17.03元/件，喜欢可入。使用淘金币再省1.77元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：云南白药 牙膏 经典系列 牙膏 留兰香型 180*3 70.97元（淘金币可抵4.34元起）",
-    "url": "https://www.smzdm.com/p/186264510/",
+    "title": "移动端：SAZA 魅蓝男士身体乳男人护肤甘油皮肤干燥补水保湿秋冬香氛 99.9元（淘金币可抵11.99元起）",
+    "url": "https://www.smzdm.com/p/186276296/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:15Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价70.97元/件，喜欢可入。使用淘金币再省4.34元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：香味：魅蓝身体乳200ml*1；净含量：200ml天猫商城该商品正在促销，最终到手价99.9元/件，喜欢可入。使用淘金币再省11.99元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：尼多熊 儿童袜子a类棉袜宝宝袜秋冬男童女童袜春秋婴儿袜 11.9元（淘金币可抵0.7元起）",
-    "url": "https://www.smzdm.com/p/186264507/",
+    "title": "移动端：海洋至尊 旅行洗漱套装男士洗发水出差沐浴露旅行装旅游洗护洗面奶 9.9元（淘金币可抵0.21元起）",
+    "url": "https://www.smzdm.com/p/186276278/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:15Z",
-    "summary": "小值机器人该价格商品规格：颜色分类：W6032 中筒袜；适用年龄：6-12个月(适合脚长9-11cm)【专为儿童设计】天猫商城该商品正在热销，领取满10减8元优惠券，最终到手价11.9元/件，喜欢可入。使用淘金币再省0.7元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：商品规格：造型梳天猫商城该商品正在促销，领取满60减48元优惠券，最终到手价9.9元/件，喜欢可入。使用淘金币再省0.21元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：清风 厚柔系列金装抽纸 4层80抽 面巾纸 22.51元（淘金币可抵2.69元起）",
-    "url": "https://www.smzdm.com/p/186264505/",
+    "title": "奥克斯 上臂式电子血压计血压仪家用血压测量仪医用高精准测压仪BSX556 79元",
+    "url": "https://www.smzdm.com/p/186276159/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:15Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取满2减2元，88VIP 95折优惠券，最终到手价22.51元/件，喜欢可入。使用淘金币再省2.69元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "妖气仙子京东自营此款目前活动售价79元，下单1件，实付低至79元。"
   },
   {
-    "title": "移动端、88VIP：marc & janie 男女童儿童保暖内衣家居服套装宝宝秋衣睡衣 94.05元（淘金币可抵2.66元起）",
-    "url": "https://www.smzdm.com/p/186264501/",
+    "title": "伊索 手部护理两件组:护手霜韶光手部修护精华 560元",
+    "url": "https://www.smzdm.com/p/186276032/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:15Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价94.05元/件，喜欢可入。使用淘金币再省2.66元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：香味：艾莉奥斯芳香护手霜75mL+息间芳香护手霜75mL天猫商城该商品正在促销，最终到手价560元/件，喜欢可入。"
   },
   {
-    "title": "移动端、88VIP：乐扣乐扣 316不锈钢密封保鲜盒 30.12元（淘金币可抵1.67元起）",
-    "url": "https://www.smzdm.com/p/186264495/",
+    "title": "移动端：万火 蓝牙ai音响复古香薰机无线充电音箱小夜灯生日礼物送女生摆件 149元（淘金币可抵0.95元起）",
+    "url": "https://www.smzdm.com/p/186276016/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:15Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价30.12元/件，喜欢可入。使用淘金币再省1.67元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：限时赠⭐猫咪摆件+蓝风铃精油+原装礼盒天猫商城该商品正在促销，最终到手价149元/件，喜欢可入。使用淘金币再省0.95元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：瓦克 德国品牌瓦克DA Plus厨卫防水防霉玻璃胶中性透明美容胶密封白色 103.55元（淘金币可抵4.74元起）",
-    "url": "https://www.smzdm.com/p/186264494/",
+    "title": "移动端：ConQUER 青蒿控油蓬松去屑舒缓养发洗发水去油清洁洗发乳 43元（淘金币可抵6.07元起）",
+    "url": "https://www.smzdm.com/p/186275933/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:15Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价103.55元/件，喜欢可入。使用淘金币再省4.74元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：香味：【升级款 ★ 蓬松高颅顶】控油蓬松洗发水 335ml天猫商城该商品正在促销，领取满66减15元优惠券，最终到手价43元/件，喜欢可入。使用淘金币再省6.07元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：三利 童巾纯棉抗菌方巾泡泡六层纱布柔软吸水婴儿毛巾全棉透气宝宝 9.41元（淘金币可抵0.56元起）",
-    "url": "https://www.smzdm.com/p/186264517/",
+    "title": "移动端：兰可欣 凡士林手膜女细嫩双手细纹嫩白保湿补水手摸手部护理脚膜 53.9元（淘金币可抵0.3元起）",
+    "url": "https://www.smzdm.com/p/186275799/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:14Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价9.41元/件，喜欢可入。使用淘金币再省0.56元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：商品规格：20片|改善粗糙 告别倒刺天猫商城该商品正在促销，最终到手价53.9元/件，喜欢可入。使用淘金币再省0.3元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：比比赞 芝士味夹心饼干 5.01元（淘金币可抵0.04元起）",
-    "url": "https://www.smzdm.com/p/186264509/",
+    "title": "移动端：儒意 腺苷防脱育头发液生长发增发固发侧柏叶头皮次抛精华快速生长男女 30.59元（淘金币可抵0.16元起）",
+    "url": "https://www.smzdm.com/p/186275762/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:14Z",
-    "summary": "小值机器人该价格商品规格：口味：尝鲜【约19包】芝士味120g送120g发240g/箱 仅8.9天猫商城该商品正在热销，最终到手价5.01元/件，喜欢可入。使用淘金币再省0.04元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：商品规格：185ml⭐【干湿双卸丨净澈0残留】天猫商城该商品正在促销，领取88VIP 95折优惠券，最终到手价30.59元/件，喜欢可入。使用淘金币再省0.16元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：乐事 薯片超值大礼包 400g 25.4元（淘金币可抵2.98元起）",
-    "url": "https://www.smzdm.com/p/186264500/",
+    "title": "移动端：儿童洗手液花朵泡泡婴幼儿宝宝专用植物温和泡沫家用消毒菌洗手液 13元（淘金币可抵0.72元起）",
+    "url": "https://www.smzdm.com/p/186275721/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:14Z",
-    "summary": "小值机器人天猫超市该商品正在热销，最终到手价25.4元/件，喜欢可入。使用淘金币再省2.98元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：花朵洗手液300ml，香味：混合香型天猫商城该商品正在促销，最终到手价13元/件，喜欢可入。使用淘金币再省0.72元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：时光学 百变益智魔尺水晶琉璃色24/36/48/60/72段幼儿园儿童炫彩益智玩具 15.01元（淘金币可抵1.52元起）",
-    "url": "https://www.smzdm.com/p/186264496/",
+    "title": "蒂普提克 香氛蜡烛 浆果香 70g 350元",
+    "url": "https://www.smzdm.com/p/186275708/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:14Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价15.01元/件，喜欢可入。使用淘金币再省1.52元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:42Z",
+    "summary": "小值机器人该价格商品规格：容器颜色：【限定】橡果造型香氛蜡烛-琥珀45g；香调分类：其它天猫商城该商品正在促销，最终到手价350元/件，喜欢可入。"
   },
   {
-    "title": "移动端、88VIP：海狸先生 香烤鳕鱼片即食鱼片干即食海鲜小吃孕妇休闲海味零食 8.84元（淘金币可抵0.9元起）",
-    "url": "https://www.smzdm.com/p/186264520/",
+    "title": "移动端：半亩花田 亩花田 美白身体乳 30ml*2支 64.9元（淘金币可抵0.32元起）",
+    "url": "https://www.smzdm.com/p/186276703/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价8.84元/件，喜欢可入。使用淘金币再省0.9元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：净含量：250ml；香味：美白身体乳250ml*1(浮光玫瑰-清爽款）天猫商城该商品正在促销，最终到手价64.9元/件，喜欢可入。使用淘金币再省0.32元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：雕牌 除菌馨香洗衣液 44.46元（淘金币可抵2.47元起）",
-    "url": "https://www.smzdm.com/p/186264518/",
+    "title": "移动端：自然旋律 美白身体乳补水保湿水润秋冬润肤乳烟酰胺全身美白男女士 79.2元（淘金币可抵6.48元起）",
+    "url": "https://www.smzdm.com/p/186276602/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价44.46元/件，喜欢可入。使用淘金币再省2.47元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：净含量：300g；香味：300g单瓶尝新【初步改善暗沉】天猫商城该商品正在促销，最终到手价79.2元/件，喜欢可入。使用淘金币再省6.48元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：德运 全脂纯牛奶 107.01元（淘金币可抵5.56元起）",
-    "url": "https://www.smzdm.com/p/186264515/",
+    "title": "移动端：爱贝迪拉 婴儿手口湿巾 新升级加厚款 19.5元（淘金币可抵0.11元起）",
+    "url": "https://www.smzdm.com/p/186276253/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫超市该商品正在热销，最终到手价107.01元/件，喜欢可入。使用淘金币再省5.56元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：【爆款加厚80克布】超5倍含水量 更好用；包数：3包天猫商城该商品正在促销，最终到手价19.5元/件，喜欢可入。使用淘金币再省0.11元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：好来 超白初萃茶牙膏 600g 31.25元（淘金币可抵2.16元起）",
-    "url": "https://www.smzdm.com/p/186264512/",
+    "title": "移动端：ORGINESE 身体乳男士润肤乳保湿皮肤干燥止痒持久留香补水秋冬正品官方旗舰 58.9元（淘金币可抵4.29元起）",
+    "url": "https://www.smzdm.com/p/186276122/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价31.25元/件，喜欢可入。使用淘金币再省2.16元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：香味：【大牌同香】天猫商城该商品正在促销，最终到手价58.9元/件，喜欢可入。使用淘金币再省4.29元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：利达妮 手术室拖鞋防滑女款夏孕妇医专用室内家居浴室洗澡防臭凉拖 19.9元（淘金币可抵0.15元起）",
-    "url": "https://www.smzdm.com/p/186264511/",
+    "title": "移动端：柚家 湿厕纸家庭实惠装洁厕湿巾私处擦屁屁男女士除菌湿厕巾可降解 30.7元（淘金币可抵0.17元起）",
+    "url": "https://www.smzdm.com/p/186276091/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人该价格商品规格：鞋码：36；颜色分类：蜜桃粉【1.0升级版⭐️EVA材质】天猫商城该商品正在热销，最终到手价19.9元/件，喜欢可入。使用淘金币再省0.15元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：套餐类型：壁挂式湿厕纸3大提【保质期至27年5月】天猫商城该商品正在促销，最终到手价30.7元/件，喜欢可入。使用淘金币再省0.17元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端：芬浓 透润美容液护发素 550ml 39元（淘金币可抵2.07元起）",
-    "url": "https://www.smzdm.com/p/186264508/",
+    "title": "贝恰医用雾化器家用轻音低噪高效儿童家用婴儿医疗专用成人家庭用 6.04元",
+    "url": "https://www.smzdm.com/p/186276081/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫国际官方直营该商品正在热销，最终到手价39元/件，喜欢可入。使用淘金币再省2.07元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "省钱小泡泡天猫精选此款目前活动售价9.9元，参与立减1.19元优惠活动，天降礼金立减1.4元，淘金币抵扣1.27元，下单1件，实付低至6.04元。(9.9-1.19-1.4-1.27=6.04)"
   },
   {
-    "title": "移动端、88VIP：双枪 304不锈钢盆和面盆家用厨房加厚打蛋洗菜沥水篮漏盆汤盆铁盆 15.11元（淘金币可抵1.07元起）",
-    "url": "https://www.smzdm.com/p/186264502/",
+    "title": "移动端：法兰琳卡 芦荟胶 60g 65.55元（淘金币可抵0.4元起）",
+    "url": "https://www.smzdm.com/p/186275898/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价15.11元/件，喜欢可入。使用淘金币再省1.07元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：净含量：200g；适合肤质：所有肤质天猫商城该商品正在促销，领取88VIP 95折优惠券，最终到手价65.55元/件，喜欢可入。使用淘金币再省0.4元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "88VIP：伯香村 黄庄月饼 手工酥皮 330g 14.16元",
-    "url": "https://www.smzdm.com/p/186264493/",
+    "title": "移动端：韩方五谷 沐浴油露持久留香72小时香水干皮保湿身体男女成人正品官方旗舰店 57.76元（淘金币可抵0.38元起）",
+    "url": "https://www.smzdm.com/p/186275759/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "陪佩佩天猫超市此款目前活动售价19.9元，参与88VIP 95折，立减5元优惠活动，下单1件，实付低至14.16元。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：商品规格：【店铺热销＆达人分享】重磅上新天猫商城该商品正在促销，最终到手价57.76元/件，喜欢可入。使用淘金币再省0.38元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "巴拉巴拉 宝宝羽绒服儿童冬装男童外套女童上衣2026新款冬婴儿衣服 199元（需用券）",
-    "url": "https://www.smzdm.com/p/186264491/",
+    "title": "LOEWE 家居香薰蜡烛 #金银花 170g+赠香水体验装1.5ml 790元",
+    "url": "https://www.smzdm.com/p/186275716/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取满15减15元，88VIP消费券 满200减25元优惠券，最终到手价199元/件，喜欢可入。"
+    "published_at": "2026-11-17T09:58:41Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：番茄叶（小号）；香味：其它天猫商城该商品正在促销，最终到手价790元/件，喜欢可入。"
   },
   {
-    "title": "移动端：东北大米五常市金池米业出产三餐相伴粥饭皆宜囤货好米500g*1袋装 7.34元（淘金币可抵0.54元起）",
-    "url": "https://www.smzdm.com/p/186264490/",
+    "title": "移动端：咪一喵 足膜去死皮老茧角质滋养手脚膜保湿 49.9元（淘金币可抵5.89元起）",
+    "url": "https://www.smzdm.com/p/186276633/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:13Z",
-    "summary": "小值机器人该价格商品规格：商品规格：水稻香大米-1斤天猫商城该商品正在热销，最终到手价7.34元/件，喜欢可入。使用淘金币再省0.54元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:40Z",
+    "summary": "小值机器人该价格商品规格：商品规格：【脚膜 1袋】体验尝鲜 嫩滑双脚天猫商城该商品正在促销，最终到手价49.9元/件，喜欢可入。使用淘金币再省5.89元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：炫迈 脆皮无糖口香糖 水蜜西瓜味 56g 7.69元（淘金币可抵0.48元起）",
-    "url": "https://www.smzdm.com/p/186264521/",
+    "title": "移动端：半亩花田 苦参除螨皂除螨虫脸部清洁沐浴洗澡洗脸后背痘痘净螨香皂 100g 29.89元（淘金币可抵0.2元起）",
+    "url": "https://www.smzdm.com/p/186276167/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:12Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价7.69元/件，喜欢可入。使用淘金币再省0.48元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:40Z",
+    "summary": "小值机器人该价格商品规格：净含量：0g；香味：净螨皂20g*3(尝鲜装无赠品)天猫商城该商品正在促销，最终到手价29.89元/件，喜欢可入。使用淘金币再省0.2元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：云山半 宁波水磨年糕500g韩式部队火锅食材手工脆皮糍粑炒年糕条片 8.46元（淘金币可抵0.48元起）",
-    "url": "https://www.smzdm.com/p/186264519/",
+    "title": "移动端：麦桶桶 卫生间厕所感应垃圾桶家用智能电动夹缝极窄自动洗手间 158元（淘金币可抵0.63元起）",
+    "url": "https://www.smzdm.com/p/186276132/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:12Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价8.46元/件，喜欢可入。使用淘金币再省0.48元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:40Z",
+    "summary": "小值机器人该价格商品规格：颜色分类：9L 奶油白 | 电池感应款天猫商城该商品正在促销，最终到手价158元/件，喜欢可入。使用淘金币再省0.63元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：好丽友 好友趣膨化零食儿童出游薯片休闲小吃韩国泡菜味70g*1袋 5.31元（淘金币可抵0.35元起）",
-    "url": "https://www.smzdm.com/p/186264514/",
+    "title": "移动端：trudon 法国楚敦香薰蜡烛香氛女生日礼物生日圣诞节结婚礼盒cire 512.55元（淘金币可抵10.41元起）",
+    "url": "https://www.smzdm.com/p/186276098/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:12Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取88VIP 95折优惠券，最终到手价5.31元/件，喜欢可入。使用淘金币再省0.35元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:40Z",
+    "summary": "小值机器人该价格商品规格：商品规格：栗子羊绒木-270g天猫商城该商品正在促销，领取88VIP消费券 满480减60元优惠券，最终到手价512.55元/件，喜欢可入。使用淘金币再省10.41元起，根据账号情况可能抵更多，建议亲测。"
   },
   {
-    "title": "移动端、88VIP：盼盼 鸡块组合装 混合口味 60g*3袋 5.4元（淘金币可抵0.27元起）",
-    "url": "https://www.smzdm.com/p/186264513/",
+    "title": "移动端：维达 婴儿专用抽纸3层纸巾100抽*24包 宝宝纸巾面巾纸餐巾纸整箱 44.9元（淘金币可抵0.24元起）",
+    "url": "https://www.smzdm.com/p/186276077/",
     "source_id": "smzdm",
     "source_name": "什么值得买",
     "group": "好价资讯",
-    "published_at": "2026-11-17T04:11:12Z",
-    "summary": "小值机器人天猫超市该商品正在热销，领取减0.6元优惠券，最终到手价5.4元/件，喜欢可入。使用淘金币再省0.27元起，根据账号情况可能抵更多，建议亲测。"
+    "published_at": "2026-11-17T09:58:40Z",
+    "summary": "小值机器人该价格商品规格：套餐类型：S码100抽24包天猫商城该商品正在促销，最终到手价44.9元/件，喜欢可入。使用淘金币再省0.24元起，根据账号情况可能抵更多，建议亲测。"
+  },
+  {
+    "title": "华为星芒 OSTA O1 Pro 阔直板手机上架：三款配色外观公布，紫色独占 16GB 内存",
+    "url": "https://www.ithome.com/1/028/067.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:50:22Z",
+    "summary": "IT之家 11 月 17 日消息，华为全新子品牌星芒的首款产品 —— OSTA O1 Pro 阔直板手机现已上架华为商城，将于 11 月 20 日正式发布。 IT之家从商店页面了解到，OSTA O1 Pro 可选 星空黑、星云白、星芒紫 三款配色，其中： 星空黑、星云白可选 12GB + 256GB、12GB + 51"
+  },
+  {
+    "title": "OpenAI 推出儿童性虐待内容检测工具，加强儿童网络安全防护",
+    "url": "https://www.ithome.com/1/028/066.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:49:31Z",
+    "summary": "IT之家 11 月 17 日消息，OpenAI 昨天宣布推出儿童性虐待内容（CSAM）检测工具。该产品可中断有害行为，同时提供干预措施，并为负责儿童安全案件的执法调查人员提供支持。该工具将通过 OpenAI API，向经过审核的机构免费开放。 据介绍，OpenAI 已推出全新的图像分类器，用于检测潜在的儿童性虐待内容。"
+  },
+  {
+    "title": "谷歌第七代自研 Ironwood TPU 交卷：8192 颗集群约 102 秒达标 DeepSeek-V3 预训练",
+    "url": "https://www.ithome.com/1/028/065.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:46:08Z",
+    "summary": "IT之家 11 月 17 日消息，谷歌云（Google Cloud）昨日（11 月 16 日）发布博文， 在 MLPerf Training v6.1 基准测试第一轮中，提交了覆盖第七代 Ironwood TPU 与英伟达 Grace Blackwell GPU 的 10 项结果 ，涉及模型预训练，以及 MLPerf "
+  },
+  {
+    "title": "微软宣布 2027 年度商业云定价调整，人民币计价下调至多 8.5%",
+    "url": "https://www.ithome.com/1/028/064.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:39:30Z",
+    "summary": "IT之家 11 月 17 日消息，Microsoft（微软）当地时间本月 10 日宣布了 2027 年的年度商业云定价调整。 此次调价涉及中国人民币以及澳大利亚元、印度卢比、挪威克朗、新西兰元共 5 种货币， 旨在使本地货币定价与全球水平保持一致 。新价格将于 2027 年 1 月 1 日生效。 云 本地部署 中国人民"
+  },
+  {
+    "title": "微软推送 Win11 Build 26320.10003、26340.10013 预览版更新：任务栏调整，带来多项新功能",
+    "url": "https://www.ithome.com/1/028/063.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:38:56Z",
+    "summary": "IT之家 11 月 17 日消息，微软今日面向 Windows Insider 计划用户发布了两个 Windows 11 预览版更新，均基于 26H2： Beta 频道：版本号为 Build 26320.10003 Experimental（实验）频道，版本号为 Build 26340.10013 其中，Build 2"
+  },
+  {
+    "title": "消息称前美团千亿业务负责人刘燕翔离职创业，联手原飞书高管推出 AI 戒指",
+    "url": "https://www.ithome.com/1/028/061.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:28:46Z",
+    "summary": "IT之家 11 月 17 日消息，据新浪科技今日报道，原美团门票度假和交通事业部总经理刘燕翔已离职创业，联合前飞书国际化运营负责人 Garin 共同创办乎灵科技（北京）有限公司，品牌名为“乎零（Huling）”，公司已完成千万级人民币种子轮融资，天使轮融资也即将启动。 据知情人士透露，经种子轮投资人撮合，刘燕翔已与前字"
+  },
+  {
+    "title": "GAMDIAS 推出 ATLAS P7 机箱：四面环绕式玻璃 + 悬浮上下分舱",
+    "url": "https://www.ithome.com/1/028/060.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:25:19Z",
+    "summary": "IT之家 11 月 17 日消息，中国台湾地区 PC 组件企业 GAMDIAS 昨日宣布推出机箱新品 ATLAS P7。这一型号 采用四面环绕式玻璃 + 悬浮上下分舱设计 ，配备多条 ARGB LED 灯带，还在主舱右前方设置了包含聚光灯的手办台。 ATLAS P7 三维 518×240×440 (mm)，属于中塔类型"
+  },
+  {
+    "title": "华为星芒 OSTA O1 Pro 定位“鸿蒙 AI 手机”：全新图标、铃声，搭载专属 AI 伙伴",
+    "url": "https://www.ithome.com/1/028/059.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:24:33Z",
+    "summary": "IT之家 11 月 17 日消息，华为星芒 OSTA O1 Pro 阔直板手机将于 11 月 20 日发布，官方今日预热，OSTA O1 Pro 定位“ 鸿蒙 AI 手机 ”。 从预热视频可以看到，华为星芒手机在软件层面进行了特殊设计， 采用全新图标设计、壁纸全域共色 ，还有全新来电铃声。 IT之家注意到，作为一款“鸿"
+  },
+  {
+    "title": "谷歌 Pics 升级 Nano Banana 2.1 模型：生图更细腻，改图更准确",
+    "url": "https://www.ithome.com/1/028/058.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:16:32Z",
+    "summary": "IT之家 11 月 17 日消息，谷歌昨日（11 月 16 日）发布 Workspace 官方更新公告， 宣布旗下图像工具 Google Pics 升级至 Nano Banana 2.1 模型，进一步改善图像生成和编辑体验。 在推送方面，谷歌表示面向快速发布（Rapid Release）和定期发布（Scheduled "
+  },
+  {
+    "title": "华为星芒 OSTA O1 Pro 阔直板手机外观公布，主打紫色渐变",
+    "url": "https://www.ithome.com/1/028/057.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:12:09Z",
+    "summary": "IT之家 11 月 17 日消息，华为全新品牌 OSTA 星芒手机今日官宣了 OSTA O1 Pro 阔直板手机 ，并公布了新机的外观。 从预热视频可以看到，星芒 OSTA O1 Pro 采用了类似 Pura X View 的机身屏幕比例，后置镜头模组同样为横向跑道形，不过看起来像是砍掉了一颗镜头。 新机以紫色渐变为主"
+  },
+  {
+    "title": "郭守敬望远镜立功：中国科学家证实“丝绸星云”为 6.8 万年前超新星爆炸遗迹，距地球约 520 光年",
+    "url": "https://www.ithome.com/1/028/056.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:08:39Z",
+    "summary": "IT之家 11 月 17 日消息，中国科学院国家天文台科研团队联合天文爱好者，依托我国大科学装置郭守敬望远镜（LAMOST）的观测数据，揭开了一片名为“丝绸星云”的暗弱星云身世。 研究证实，这条位于双子座方向、形如丝带的星云是一次古老恒星大爆炸留下的冲击波遗迹，相关成果已发表在国际期刊《天文学杂志》上。 这片细长星云于"
+  },
+  {
+    "title": "TRYX 公布卡普空联名《生化危机》《识质存在》主题液冷外观",
+    "url": "https://www.ithome.com/1/028/055.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:07:23Z",
+    "summary": "IT之家 11 月 17 日消息，PC DIY 硬件制造商 TRYX（创氪星系）昨日公布了其与 Capcom（卡普空）合作打造的《生化危机》《识质存在》主题处理器一体式液冷散热器的外观。 这两款联名型号均 基于 TRYX 的旗舰液冷 PANORAMA 展域 ，配备曲面 OLED 屏幕，支持裸眼 3D 视效，搭载连体风扇"
+  },
+  {
+    "title": "超频玩家借助 AI 修改主板 BIOS：尝试复活华擎 SkyOC BCLK 超频功能，绕过英特尔非 K 处理器限制",
+    "url": "https://www.ithome.com/1/028/053.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:04:11Z",
+    "summary": "IT之家 11 月 17 日消息，据 Tom's Hardware 昨日报道，一名硬件超频爱好者尝试借助 AI 修改主板 BIOS，重新启用华擎此前已经取消的 SkyOC 技术，以绕过英特尔非 K 系列处理器的超频限制。 Hardware 360º 在 X 上发布消息称，他借助 ChatGPT Astra，对两个不同版"
+  },
+  {
+    "title": "OpenAI 奥尔特曼谈黄仁勋离职：我也被解雇过，相信 AI 行业能平稳度过",
+    "url": "https://www.ithome.com/1/028/052.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:03:01Z",
+    "summary": "IT之家 11 月 17 日消息，据彭博社今天报道，OpenAI 首席执行官萨姆 · 奥尔特曼表示，即使英伟达前 CEO 黄仁勋不再掌舵，AI 行业依然会“运转良好”。 当被问及是否认为黄仁勋应该重返英伟达时，奥尔特曼表示：“我认为自己掌握的信息不足以回答这个问题。” 不过他对黄仁勋的处境表示同情 ， 并提到了自己 2"
+  },
+  {
+    "title": "曝 Switch 2 版《GTA 6》游戏正积极开发：已有优化团队，R 星不急于公布",
+    "url": "https://www.ithome.com/1/028/051.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:02:21Z",
+    "summary": "IT之家 11 月 17 日消息，在最新一期播客节目中， 消息源 Nash Weedle 透露 Rockstar Games（下文简称 R 星）正在积极推进《侠盗猎车手 VI》（GTA6）游戏的 Switch 2 移植工作，并已有专门团队负责优化。 IT之家查询公开资料，Nash Weedle 主要爆料任天堂相关消息，"
+  },
+  {
+    "title": "2026 年 11 月期 TOP500 超算出炉：中国“灵晟”蝉联第一，新系统数量创历史新低",
+    "url": "https://www.ithome.com/1/028/050.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T01:01:26Z",
+    "summary": "IT之家 11 月 17 日消息，最新一期 TOP500 全球超级计算机榜单已于美国当地时间昨日在 SC26 大会上公布， 来自中国的“灵晟”(LineShine) 系统 2.198 Exaflop/s 的成绩继续保持第一 。 2026 年 11 月期的 TOP500 是该榜单创立以来变化最少的一次 ，仅有 27 个新"
+  },
+  {
+    "title": "Switch 2 被发现桌面同款 DLSS 4：输入特征缩减 75%、预设 H/I 两大低负载模式",
+    "url": "https://www.ithome.com/1/028/049.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:49:11Z",
+    "summary": "IT之家 11 月 17 日消息，开发者 Eren Doğan 昨日（11 月 16 日）在 X 平台发布推文，披露称 他从任天堂 Switch 2 中提取出英伟达 DLSS 模型，发现其中包含 DLSS 4 引入的第一代 Transformer 模型，模型权重与 PC 桌面版相同 ，但未发现 DLSS 4.5 模型。"
+  },
+  {
+    "title": "刷新水深纪录，我国“梦想”号大洋钻探船完成重大装备海试任务",
+    "url": "https://www.ithome.com/1/028/048.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:47:48Z",
+    "summary": "IT之家 11 月 17 日消息，据央视新闻今日报道，我国“梦想”号大洋钻探船近日圆满完成开路泥浆循环系统的海试任务， 刷新了同类系统国际最大作业水深纪录 。 “梦想”号是全球唯一具备 11000 米钻探能力的大洋钻探船，具备大洋钻探、深海油气勘探等多种作业能力。 本次海试任务历时 33 天，搭载的回收循环钻井系统分别"
+  },
+  {
+    "title": "R 星跨界联动天气频道公布《GTA6》全新截图，展示雷奥奈达州的动态天气效果",
+    "url": "https://www.ithome.com/1/028/047.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:43:57Z",
+    "summary": "IT之家 11 月 17 日消息，天气频道（The Weather Channel）今日在 X 平台发文，与 Rockstar 共同公布一批《GTA6》游戏新截图，旨在展示雷奥奈达州的动态天气效果。 Rockstar Games 美术副总裁（光照与渲染）欧文 · 谢泼德表示，《GTA6》拥有 GTA 系列游戏最深入、最"
+  },
+  {
+    "title": "含 1/48 概率稀有夜光版：Camp Snap 最小复古数码摄像机 CS-8 Micro 即将盲盒开售",
+    "url": "https://www.ithome.com/1/028/045.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:34:57Z",
+    "summary": "IT之家 11 月 17 日消息，科技媒体 digitaltrends 昨日（11 月 16 日）发布博文， 报道称 Camp Snap 宣布将于美国当地时间 11 月 17 日上午 11 点（北京时间 18 日凌晨 0 点）推出迷你复古数码摄像机 CS-8 Micro ，售价为 39.99 美元 （IT之家注：现汇率"
+  },
+  {
+    "title": "不法分子借微软 365 宕机实施大规模钓鱼攻击，伪造邮件通知窃取用户账号",
+    "url": "https://www.ithome.com/1/028/043.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:27:48Z",
+    "summary": "IT之家 11 月 17 日消息，微软威胁情报团队发现，一场针对多个组织的大规模钓鱼攻击活动正在利用近期 Microsoft 365 服务中断事件实施攻击。 攻击者通过向用户发送伪装成微软 365 服务健康通知的邮件，诱导收件人点击链接，从而窃取账户登录凭证。 微软威胁情报团队于当地时间 11 月 13 日监测到这场钓"
+  },
+  {
+    "title": "苹果为 Apple TV 引入“短视频”竖屏格式和视频播客功能：无需订阅即可观看播客，覆盖 iPhone、iPad、Mac 等设备",
+    "url": "https://www.ithome.com/1/028/042.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:20:38Z",
+    "summary": "IT之家 11 月 17 日消息，据 9to5mac 今日报道，苹果在最新的 iOS 27.3 Beta 2 中为 Apple TV 应用新增了两种新特性：“短视频”竖屏格式和视频播客功能。 正如字面意思，竖屏格式的加入可以让用户通过类似 TikTok 等短视频平台的界面来体验 Apple TV 内容预览，而 Netf"
+  },
+  {
+    "title": "卖股票必须提前 30 天写书面计划：Anthropic 上市前把“高管紧箍咒”套在了每个普通员工头上",
+    "url": "https://www.ithome.com/1/028/040.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:20:19Z",
+    "summary": "IT之家 11 月 17 日消息，科技媒体 Business Insider 今天（11 月 17 日）发布博文，报道称 人工智能公司 Anthropic 为了降低内幕交易风险，计划在首次公开募股（IPO）后，要求出售公司股票的员工使用预设交易计划。 对于 Anthropic 公司员工而言，未来他们如果想要出售持股，大"
+  },
+  {
+    "title": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能",
+    "url": "https://www.ithome.com/1/028/039.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:17:42Z",
+    "summary": "IT之家 11 月 17 日消息，苹果今日向 iPad 和 Mac 用户推送 iPadOS 27.3 DP Beta 2（24C5049d）和 macOS 27.3 DP Beta 2（26C5047e）操作系统， 为国行 iPad 和 Mac 设备新增“Apple 智能”（Apple Intelligence）功能 "
+  },
+  {
+    "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+    "url": "https://www.ithome.com/1/028/038.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:14:08Z",
+    "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 17 日星期二，今天的重要科技资讯有： 1. 特朗普：支持苹果库克执掌英伟达，但不介意黄仁勋回归 当地时间 11 月 16 日在美国白宫接受 NBC News 等记者采访时，美国总统特朗普表示不介意黄仁勋重新担任英伟达首席执行官，并称有不少人希望这位公司联合创始"
+  },
+  {
+    "title": "几十元即可破解儿童电话手表，刷机多重安全风险不容忽视",
+    "url": "https://www.ithome.com/1/028/037.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:09:07Z",
+    "summary": "IT之家 11 月 17 日消息，在电商平台和视频网站上，远程刷机、破解电话手表家长监管功能的教程和服务并不难找，报价大多在 30 元至 60 元。商家支持远程操作，也可邮寄手表线下刷机，还能安装第三方 App，且不核实顾客身份。 中央广播电视总台中国之声今日报道称，电话手表如今已成为不少孩子的“标配”，甚至有些小朋友"
+  },
+  {
+    "title": "英特尔 350W 新卡 D270 亮剑，金融算力较英伟达 600W 加速卡飙升 5.9 倍",
+    "url": "https://www.ithome.com/1/027/972.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:06:31Z",
+    "summary": "IT之家 11 月 16 日消息，英特尔 11 月 16 日公布数据中心 GPU D270 的性能数据，称这款功耗设定为 350W 的加速卡，在特定金融计算测试中的应用吞吐量， 最高达到 600W 英伟达 RTX PRO 6000 Blackwell 服务器版的 5.9 倍。 规格方面，数据中心 GPU D270 相关"
+  },
+  {
+    "title": "苹果反对加拿大 C-22 法案，称相关规定可能引入加密后门、削弱用户数据安全",
+    "url": "https://www.ithome.com/1/028/036.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-17T00:00:17Z",
+    "summary": "IT之家 11 月 17 日消息，据 MacRumors 今日报道，苹果公司正敦促加拿大政府修改一项涉及执法机构获取用户数字信息的法案，称相关规定可能削弱苹果产品现有的隐私和安全保护机制。 这项法案旨在帮助加拿大警方和情报机构在调查过程中获取数字信息。目前，苹果、谷歌和 Meta 均在游说加拿大议员，希望调整正在审议的"
+  },
+  {
+    "title": "“流星雨之王”狮子座流星雨今晚至明日迎来极大期，专家建议后半夜肉眼观测",
+    "url": "https://www.ithome.com/1/028/035.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:57:19Z",
+    "summary": "IT之家 11 月 17 日消息，据新华社及央视报道，有着“流星雨之王”美誉的狮子座流星雨将于 11 月 18 日凌晨迎来极大期，最佳观测窗口为 18 日凌晨至天亮前。狮子座流星雨以速度快、亮度高为特色，偶尔会出现耀眼的火流星。 狮子座流星雨的母体是坦普尔-塔特尔彗星。星联 CSVA 联合发起人、天文科普专家蒋晨明介绍"
+  },
+  {
+    "title": "AMD FSR 4.1 超分 +4 代帧生成技术首次落地 Vulkan 引擎：《毁灭战士：黑暗时代》游戏 5 号更新上线",
+    "url": "https://www.ithome.com/1/028/034.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:54:41Z",
+    "summary": "IT之家 11 月 17 日消息，《毁灭战士：黑暗时代》（DOOM: The Dark Ages）昨日（11 月 16 日）推出 5 号更新，主要为 PC 版游戏加入 AMD FSR Upscaling 4.1 超分辨率技术和 Frame Generation 4 帧生成技术。 AMD 高管 Jack Huynh 确认"
+  },
+  {
+    "title": "英伟达发布 Rubin HPC GPU：单卡超 5 万 CUDA 核心创纪录，预计 2028 年上市",
+    "url": "https://www.ithome.com/1/027/998.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T16:06:43Z",
+    "summary": "IT之家 11 月 17 日消息，英伟达今日在 SC26 大会发布 Rubin HPC GPU，基于 Vera Rubin 平台打造，专为科学研究、工程设计、数据分析仿真计算等工作设计。 IT之家从英伟达新闻稿获悉， Rubin HPC GPU 配备创纪录的 CUDA 核心 ， 单 GPU 的 CUDA 数超过 5 万"
+  },
+  {
+    "title": "苹果 iOS 27.3 测试版新增 Siri AI 每日限额，付费订阅 iCloud+ 可提升 2~20 倍",
+    "url": "https://www.ithome.com/1/028/033.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:50:18Z",
+    "summary": "IT之家 11 月 17 日消息，据 MacRumors 今日报道，苹果正在测试为 Siri AI 和 Apple Intelligence 引入每日免费使用额度，并允许用户通过订阅 iCloud+ 获得更高的使用限额。 苹果已在 iOS 27.3、iPadOS 27.3 和 macOS 27.3 测试版中加入相关机制"
+  },
+  {
+    "title": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职",
+    "url": "https://www.ithome.com/1/028/032.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:40:59Z",
+    "summary": "IT之家 11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息， 英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。 报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。 报道称，英伟达已聘请 Wachtell Lipton 律师事务所，"
+  },
+  {
+    "title": "问界新 M8 率先进驻 AITO 用户中心，华为终端门店停止接单",
+    "url": "https://www.ithome.com/1/028/031.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:40:24Z",
+    "summary": "IT之家 11 月 17 日消息，据界面新闻昨日报道，刚刚上市的问界新 M8 已经进入 AITO 问界用户中心，开放预订和试驾。部分华为终端门店尚未摆放这款新车，其中一家门店已经停止接收问界订单。 一家华为终端门店内负责汽车销售的人员称，9 月底问界的车型已经撤出这家门店，该店已不负责问界销售，也不能接收问界订单。北京"
+  },
+  {
+    "title": "让你随时欣赏 Game Boy 卡带里的游戏原声音乐，Retro Song Bird 音箱现身众筹",
+    "url": "https://www.ithome.com/1/028/030.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:34:02Z",
+    "summary": "IT之家 11 月 17 日消息，一款名为 Retro Song Bird 的音箱近日现身 Kickstarter 众筹平台，售价 79 美元 （IT之家注：现汇率约合 527.6 元人民币） 。这款产品顶部带有一个 Game Boy 游戏卡带槽，可以让玩家随时欣赏《宝可梦红／绿》《牧场物语 GB》《超级咚奇刚》等经典"
+  },
+  {
+    "title": "做 App 副业的最佳 AI 助手：谷歌推出系列工具，瞄准最头疼的变现环节",
+    "url": "https://www.ithome.com/1/028/029.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:30:43Z",
+    "summary": "IT之家 11 月 17 日消息，谷歌昨日（11 月 16 日）发布博文，宣布为旗下移动应用广告平台 AdMob 引入新一批 AI 工具，包括对话助手 Ask AdMob 以及面向 AI 编程助手的 AdMob 智能体技能， 帮助开发者简化广告接入、排查配置问题，并寻找增加广告收入的机会。 Ask AdMob 基于 G"
+  },
+  {
+    "title": "美国加州正式起诉 OpenAI，指控 AI 智能体至少 80 次失控",
+    "url": "https://www.ithome.com/1/028/028.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:26:46Z",
+    "summary": "IT之家 11 月 17 日消息，当地时间 11 月 16 日，美国加利福尼亚州正式起诉 OpenAI，指控该公司在开发和测试先进人工智能模型时缺乏必要的安全防护与监控措施，导致 AI 智能体多次失去控制，并对第三方网络发起未经授权的攻击。 IT之家注意到，加州检察长罗布 · 邦塔（Rob Bonta）在加州司法部官网"
+  },
+  {
+    "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，从抽签改为先到先得",
+    "url": "https://www.ithome.com/1/028/027.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:18:51Z",
+    "summary": "IT之家 11 月 17 日消息，OpenAI 宣布扩大面向学术研究人员的 ChatGPT 免费使用计划（ChatGPT for Academic Researchers），目标是为全球最多 20 万名研究人员提供免费访问权限。 OpenAI 今日宣布，新一轮申请将于当地时间 11 月 23 日开放，计划新增 5 万个"
+  },
+  {
+    "title": "美联航遭遇大范围系统故障，航班起飞受影响",
+    "url": "https://www.ithome.com/1/028/026.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:17:26Z",
+    "summary": "IT之家 11 月 17 日消息，据科技媒体 Engadget 今天报道，美国联合航空如今遭遇大范围系统故障，今天乘飞机出行的旅客可能会遇到延误。 美联航在 X 平台表示，公司已获悉大范围系统中断情况，团队正在全力以赴，争取尽快恢复正常运行。 IT之家从原报道获悉，该公司发言人对此回应称：“ 我们正排查一项影响离港航班"
+  },
+  {
+    "title": "“里程碑式设计”：苹果 iPhone 20 Pro 屏幕盖板再曝，让边框淡出视野",
+    "url": "https://www.ithome.com/1/028/025.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:13:54Z",
+    "summary": "IT之家 11 月 17 日消息，@数码大叔 于昨日（11 月 16 日）在小红书上发布视频，展示了苹果 iPhone 20 Pro 的四曲面玻璃屏幕盖板。数码博主 @i冰宇宙 随后在 X 平台转发该视频， 并表示“苹果 iPhone 20 Pro 将采用一个里程碑式设计”。 IT之家附上相关视频如下： 按照目前所描述"
+  },
+  {
+    "title": "OpenAI 与 Goodfire 达成 AI 安全合作，此前曾探讨超 50 亿美元收购",
+    "url": "https://www.ithome.com/1/028/024.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:12:19Z",
+    "summary": "IT之家 11 月 17 日消息，今日，OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 达成合作，将启动首阶段嵌入式评估项目（Embedded Assessments），共同开展模型可解释性与安全评估工作。 与此同时，据《The Information》今日报道"
+  },
+  {
+    "title": "美国推动全栈 AI / SI 技术出海：首批 33 个联盟获指定，覆盖芯片、模型及行业应用",
+    "url": "https://www.ithome.com/1/028/022.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T23:01:32Z",
+    "summary": "IT之家 11 月 17 日消息，美国商务部当地时间 11 月 16 日宣布，美国 SI 出口计划（American SI Exports Program）进入新阶段，首批指定 33 个预先组建的产业联盟，提供面向海外市场的全栈超级智能（SI）技术出口方案。同时，项目将于 11 月 30 日开放按需组建联盟的申请。 根"
+  },
+  {
+    "title": "苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 发布：为 iPhone Duo 加入外屏面部解锁功能",
+    "url": "https://www.ithome.com/1/028/013.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T19:19:20Z",
+    "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta / RC 间隔 13 天。 在新系统中，苹果为 iPhone Duo 折叠"
+  },
+  {
+    "title": "苹果宣布 iPhone Duo 适配优化 App 突破 20 万款，十天左右数量翻倍",
+    "url": "https://www.ithome.com/1/028/021.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T22:51:56Z",
+    "summary": "IT之家 11 月 17 日消息，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布，目前已有超过 20 万款应用针对 iPhone Duo 完成优化，较本月早些时候公布的 10 万款增长一倍。 他表示，开发者对 iPhone Duo 的支持速度超出预期，优化应用数量在一周多时间内实现翻倍，他"
+  },
+  {
+    "title": "法拉第未来 2026 财年前三季度归母亏损 8343.1 万美元，同比亏损收窄 76.64%",
+    "url": "https://www.ithome.com/1/028/018.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T22:05:41Z",
+    "summary": "IT之家 11 月 17 日消息，法拉第未来今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：249.8 万美元，同比增长 513.76% 毛"
+  },
+  {
+    "title": "苹果 Apple Pay 和钱包业务换帅，26 年资深员工科里 · 富格曼接棒",
+    "url": "https://www.ithome.com/1/028/020.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T22:44:09Z",
+    "summary": "IT之家 11 月 17 日消息，据彭博社昨天报道，苹果正持续调整管理层，资深员工科里 · 富格曼（Corey Fugman）将接替詹妮弗 · 贝利（Jennifer Bailey），出任 Apple Pay 和钱包业务部门负责人。 此前彭博社报道称，詹妮弗 · 贝利将于今年 10 月退休。自 Apple Pay 20"
+  },
+  {
+    "title": "特朗普：支持苹果库克执掌英伟达，但不介意黄仁勋回归",
+    "url": "https://www.ithome.com/1/028/019.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T22:38:55Z",
+    "summary": "IT之家 11 月 17 日消息，当地时间 11 月 16 日在美国白宫接受 NBC News 等记者采访时， 美国总统特朗普表示不介意黄仁勋重新担任英伟达首席执行官，并称有不少人希望这位公司联合创始人回归。 被问及是否支持黄仁勋复职时，特朗普说：“我确实不介意看到这种情况。”他还表示，黄仁勋“吸取了一个很大的教训”。"
   },
   {
     "title": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布",
@@ -1476,31 +1890,22 @@
     "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24S5296d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / ma"
   },
   {
+    "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布：细化应用授权，让用户管理更透明",
+    "url": "https://www.ithome.com/1/028/014.htm",
+    "source_id": "ithome",
+    "source_name": "IT之家",
+    "group": "好价资讯",
+    "published_at": "2026-11-16T19:19:21Z",
+    "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta / RC 间隔 13 天。 此次更新的一项重点，是让应用申请高权限时更加透明。 苹 果调整了“设备控制与数据访问”（Device "
+  },
+  {
     "title": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布",
     "url": "https://www.ithome.com/1/028/015.htm",
     "source_id": "ithome",
     "source_name": "IT之家",
     "group": "好价资讯",
     "published_at": "2026-11-16T19:19:21Z",
-    "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟"
-  },
-  {
-    "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布",
-    "url": "https://www.ithome.com/1/028/014.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T19:19:21Z",
-    "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 "
-  },
-  {
-    "title": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布",
-    "url": "https://www.ithome.com/1/028/013.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T19:19:20Z",
-    "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS"
+    "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta / RC 间隔 13 天。 已参与开发者测试的用户，可通过设备上的“设置”应用检查并下载更新。需要注意的是，此次发"
   },
   {
     "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
@@ -1591,419 +1996,5 @@
     "group": "好价资讯",
     "published_at": "2026-11-16T14:29:39Z",
     "summary": "IT之家 11 月 16 日消息，据工信微报消息，11 月 16 日，国际电信联盟 2026 年全权代表大会完成国际电联理事国和无线电规则委员会委员选举工作， 中国成功连任国际电联理事国（2027—2030 年） ，中国候选人、国家数据集团有限公司董事程建军成功连任无线电规则委员会委员（2027—2030 年）。 据介"
-  },
-  {
-    "title": "AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家",
-    "url": "https://www.ithome.com/1/027/969.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T14:15:41Z",
-    "summary": "IT之家 11 月 16 日消息，AMD 今日宣布，已完成对 World Labs 的收购。AMD 称，此次收购将引入一支世界级 AI 模型研发团队，进一步增强 AMD 在 AI 全技术栈领域的实力。双方将整合顶尖 AI 模型研究人员与 AMD 工程师的技术优势，共同打造面向开放 AI 生态的新一代硬件、软件和系统。 "
-  },
-  {
-    "title": "徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务",
-    "url": "https://www.ithome.com/1/027/968.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T14:15:22Z",
-    "summary": "IT之家 11 月 16 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾"
-  },
-  {
-    "title": "无方向盘的特斯拉 Cybercab 支持触屏手动驾驶，仅限低速应急场景",
-    "url": "https://www.ithome.com/1/027/967.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T14:10:39Z",
-    "summary": "IT之家 11 月 16 日消息，特斯拉已将 Cybercab 无人驾驶出租车的私人使用版售价定为 2.999 万美元 （IT之家注：现汇率约合 20 万元人民币） ，并计划很快向用户发出购车邀请。这将使其成为特斯拉有史以来最便宜的车型。不过，与入门版 Model 3 后轮驱动版相比，Cybercab 看似低廉的售价背"
-  },
-  {
-    "title": "5499 → 4499 元：苹果 iPad mini（A20 Pro）国补后立减 1000 元",
-    "url": "https://www.ithome.com/1/027/966.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T14:07:22Z",
-    "summary": "苹果 iPad mini（A20 Pro）搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，今年 11 月 6 日发售，定价 5499 元起。 京东即日起发放 500 元叠加券，国补后低至 4499 元起： 点此领券 （每日限量） 京东 iPad mini A20 Pro 128G "
-  },
-  {
-    "title": "华为徐直军回忆分布式基站诞生：2003 年余承东发现痛点，最终成为今天 3G、4G、5G 基站标准形态",
-    "url": "https://www.ithome.com/1/027/965.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T13:51:58Z",
-    "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it,living it,leading it》）。 徐直军在文中回忆"
-  },
-  {
-    "title": "何小鹏：明年二季度将面向外部商业客户发布小鹏 IRON 人形机器人",
-    "url": "https://www.ithome.com/1/027/964.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T13:27:42Z",
-    "summary": "IT之家 11 月 16 日消息，据蓝鲸新闻报道，今日晚间在小鹏集团 2026 年 Q3 财报电话会上，其董事长、CEO 何小鹏预告，在接下来的小鹏科技日和广州车展，最新版本的小鹏 IRON 将会公开亮相，将展示一系列与众不同的能力。 何小鹏透露，明年一季度，量产的首批机器人将进入小鹏的部分门店开启试用；明年二季度，小"
-  },
-  {
-    "title": "华为徐直军透露 2012 实验室名字取自电影《2012》，自动驾驶、5G、昇腾芯片都在此完成孵化",
-    "url": "https://www.ithome.com/1/027/963.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T13:26:50Z",
-    "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it, living it, leading it》）。 他在文中以第"
-  },
-  {
-    "title": "奇瑞捷途环游者 EV 预售发布：猎鹰 500 辅助驾驶、67.2kWh 犀牛电池，9.99 万元起",
-    "url": "https://www.ithome.com/1/027/962.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T13:17:33Z",
-    "summary": "IT之家 11 月 16 日消息，奇瑞捷途环游者 EV 新车今晚开启预售，定位紧凑型纯电 SUV，并搭载猎鹰 500 辅助驾驶，预售价 9.99-14.59 万元。 车型 预售价 550km 后驱畅行版 9.99 万元 550km 后驱智行版 10.99 万元 550km 后驱智臻版 12.49 万元 550km 后驱"
-  },
-  {
-    "title": "布加迪车主平均年龄降至 42 岁，有藏家坐拥 14 台",
-    "url": "https://www.ithome.com/1/027/960.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T13:01:52Z",
-    "summary": "IT之家 11 月 16 日消息，布加迪（Bugatti）通常与老钱家族、奢华生活方式以及收藏多年豪车的富豪联系在一起。不过，这家法国超豪华汽车品牌的客户群体正在变得年轻化。数据显示，布加迪客户的平均年龄已经从 52 岁降至约 42 岁。 这一数据来自布加迪美洲公司首席执行官萨沙 · 多林（Sascha Doering"
-  },
-  {
-    "title": "一汽-大众纯电轿车 ID. AURA L5 开启盲订：全系 CLTC 纯电续航 580KM、激光雷达上车",
-    "url": "https://www.ithome.com/1/027/959.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T13:01:01Z",
-    "summary": "IT之家 11 月 16 日消息，一汽-大众旗下全新纯电轿车 ID. AURA L5 今日正式开启预订，新车是 ID. AURA 序列首款纯电家轿，全系 CLTC 纯电续航 580KM， 支付 99 元意向金可抵 2,000 元购车款 。 新车定位“智能大掀背、超级家轿”，与 ID. AURA T6 共同组成一汽-大众"
-  },
-  {
-    "title": "限时返场：WPS 京东 PLUS 联合会员 191 元随缘发车，单个会员 1 年仅需 47 元",
-    "url": "https://www.ithome.com/1/027/858.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:23:31Z",
-    "summary": "点击下方卡片加入购物车后，需回到京东 App 首页搜索“WPS 会员”直接下单（不要去购物车）。 WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS 会员 1 年，首次购买用户叠加 25 元首购礼金，返场限时补贴 30 元； 部分用户可叠加京东平台 52 元补贴（加入购物车后，京东 App 首"
-  },
-  {
-    "title": "华为星芒 OSTA O1 Pro 新机更多配置信息曝光：新增无充电器版本，黑白紫三色可选",
-    "url": "https://www.ithome.com/1/027/958.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:51:32Z",
-    "summary": "IT之家 11 月 16 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。今日早些时候，OSTA O1 Pro 真机谍照已在各大平台流出。画面显示，该机外观与 Pura X"
-  },
-  {
-    "title": "华为轮值董事长徐直军罕见在《时代》撰文，从 1993 年出发第一视角讲述华为 33 年创新之路",
-    "url": "https://www.ithome.com/1/027/957.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:39:37Z",
-    "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it, living it, leading it》）。 徐直军 19"
-  },
-  {
-    "title": "华硕“VY249HG3”23.8 英寸显示器发售：1080P 180Hz，599 元",
-    "url": "https://www.ithome.com/1/027/956.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:37:40Z",
-    "summary": "IT之家 11 月 16 日消息，华硕旗下“VY249HG3”23.8 英寸显示器现已在京东发售，该机主打 1080P 180Hz，定价为 599 元。 京东 华硕“VY249HG3”显示器 599 元 直达链接 该机配备一块 1920x1080 分辨率 180Hz 超频 IPS 面板，亮度 300 尼特，对比度 15"
-  },
-  {
-    "title": "OPPO Enco Clip2 耳夹式耳机新增“粉黛海”配色，首销优惠价 719.1 元",
-    "url": "https://www.ithome.com/1/027/954.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:34:21Z",
-    "summary": "IT之家 11 月 16 日消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 为旗下 Enco Clip2 耳夹式耳机新增“粉黛海”全新配色，定价为 799 元，首销优惠价 719.1 元。 京东 OPPO Enco Clip2“粉黛海”配色 券后 719.1 元 领 60 元券 OPPO Enc"
-  },
-  {
-    "title": "巴菲特捐赠 55 亿美元伯克希尔股票，三个子女掌管的基金会均获赠",
-    "url": "https://www.ithome.com/1/027/953.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:31:47Z",
-    "summary": "IT之家 11 月 16 日消息，亿万富翁沃伦 · 巴菲特（Warren Buffett）向四家慈善基金会捐赠了价值约 55 亿美元 （IT之家注：现汇率约合 367.31 亿元人民币） 的伯克希尔 · 哈撒韦（Berkshire Hathaway）股票，捐赠规模较去年进一步增加。 现年 96 岁的巴菲特将 6150 "
-  },
-  {
-    "title": "R 星再次向《GTA6》推送游戏更新补丁：版本号 1.002.001，体积 602.5MB",
-    "url": "https://www.ithome.com/1/027/952.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:28:04Z",
-    "summary": "IT之家 11 月 16 日消息，Rockstar 今天（16 日）再次向 PS5 和 XBOX Series X 平台推送了《GTA 6》更新补丁， 版本号为 1.002.001 。 目前，R 星暂未公布更新说明，外界仅知悉相应补丁体积为 602.5MB，暂无法判断补丁具体修改了什么，也不清楚为什么必须强制安装。 此"
-  },
-  {
-    "title": "OPPO Reno17 系列手机洛天依镌刻版 / 联名礼盒公布：含限定立牌、水晶球等，3799 元起",
-    "url": "https://www.ithome.com/1/027/951.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:21:00Z",
-    "summary": "IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 介绍了旗下 Reno17 系列洛天依限定镌刻版正式发布， 定价为 3799 元起。标准版机型亦赠送洛天依礼盒 （需在下单时自行勾选） ，定制主题将于 11 月 20 日上线。 IT之家获悉，洛天依镌刻版机型主要就是手"
-  },
-  {
-    "title": "OPPO Pad Air6 平板电脑发布：2.8K 120Hz 柔光屏，国补后 2209.15 元起",
-    "url": "https://www.ithome.com/1/027/950.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:16:25Z",
-    "summary": "IT之家 11 月 16 日现场消息，OPPO Pad Air6 已发布，新品面向学习与影音场景，售价 3099 元起（限时 2599 元起，国补后 2209.15 元起），11 月 20 日开售。 IT之家注意到，OPPO Pad Air6 延续轻薄化设计路线，整机重量约 603g，厚度约 6.89mm。 屏幕是此次"
-  },
-  {
-    "title": "OPPO Watch 5 智能手表发布：9.2mm 轻薄机身，国补后 764.15 元起",
-    "url": "https://www.ithome.com/1/027/949.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:10:46Z",
-    "summary": "IT之家 11 月 16 日现场消息，OPPO Watch 5 智能手表已发布，新品定位“轻薄小方表”，售价 899 元起（国补后 764.15 元起），11 月 20 日 10:00 开售。 IT之家注意到，OPPO Watch 5 采用超轻薄设计，机身厚度仅 9.2mm，重量低至 25g，主打“美得无负担”的佩戴体"
-  },
-  {
-    "title": "OPPO Reno17 系列手机发布：全焦段 4K 超清长实况，3599 元起（国补后 3099 元起）",
-    "url": "https://www.ithome.com/1/027/948.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:08:50Z",
-    "summary": "IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，系列手机正式发布，IT之家整理价格如下： Reno17 8GB RAM + 256GB 存储空间：3599 元，国补后 3099 元 12GB RAM + 256GB 存储空间：3799 元，国补后 3299 元 12GB R"
-  },
-  {
-    "title": "影石 Toast 彩色墨水屏相纸发布：手机相机快速传图，能摆能挂能贴",
-    "url": "https://www.ithome.com/1/027/947.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:07:14Z",
-    "summary": "IT之家 11 月 16 日消息，影石今日发布了一款彩色墨水屏相纸产品 —— Toast ，单片定价 429 元，双片定价 815 元（每张省 21.5 元）。 Toast 除了指“吐司”，也有“举杯庆祝”之意，新品的名字就取意于此，希望能够为喜欢的瞬间举杯。IT之家已经拿到了这款影石 Toast 新品，为大家带来高清"
-  },
-  {
-    "title": "OPPO Bubble 潮玩自拍屏全新升级：支持后置超清自拍预览、10 米远程拍照预览等功能",
-    "url": "https://www.ithome.com/1/027/944.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T12:00:19Z",
-    "summary": "IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 宣布旗下 Bubble 潮玩自拍屏全新升级，引入壁纸个性化编辑、后置超清自拍预览、10 米远程拍照预览、多人合拍等功能。 官方表示，潮玩自拍屏自定义壁纸可以随心切换喜欢的 IP 角色、萌宠与表情包，还能 DIY 文字"
-  },
-  {
-    "title": "苹果首款折叠屏手机 iPhone Duo 中国官网送货上门时间更新，从明年 1 月提前至 12 月交付",
-    "url": "https://www.ithome.com/1/027/942.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:57:32Z",
-    "summary": "IT之家 11 月 16 日消息，苹果中国官网现已更新 iPhone Duo 手机送货上门时间，从 2027 年 1 月 23 日提前至 2026 年 12 月 15 日至 2026 年 12 月 22 日。 IT之家注意到，目前国内多家 Apple Store 零售店已支持 iPhone Duo 部分版本直接购买和到"
-  },
-  {
-    "title": "万代南梦宫：自家 SOL-AVES 引擎渲染速度的优化对格斗游戏至关重要",
-    "url": "https://www.ithome.com/1/027/929.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:43:34Z",
-    "summary": "IT之家 11 月 16 日消息，在 2000 年代和 2010 年代初期，大型游戏开发商普遍采用自研游戏引擎。不过，随着游戏开发成本不断攀升，越来越多厂商开始放弃自行开发和维护内部工具，转而使用 Unity、Unreal Engine 等第三方引擎，以降低开发成本。 但也有一些厂商选择坚持自研路线。卡普空（Capco"
-  },
-  {
-    "title": "漫步者推出花再 Halo PixelBar AI 桌面音箱：屏幕支持显示歌词、搭载智能体人设，699 元",
-    "url": "https://www.ithome.com/1/027/928.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:43:17Z",
-    "summary": "IT之家 11 月 16 日消息，漫步者现已在京东上架花再 Halo PixelBar AI 智能桌面音箱，该产品屏幕能够显示歌词及自定义内容，支持语音点歌，同时具有动态灯效，定价 699 元，部分地区国补后低至 568 元。 该机采用条形设计，可妥帖放置于显示器下方。正面两侧为对称的喇叭网罩，中部镶嵌一块能展示趣味表"
-  },
-  {
-    "title": "Rockstar 前研究员披露《GTA》系列游戏开发幕后：为还原真实开放世界深入帮派、监狱调研",
-    "url": "https://www.ithome.com/1/027/925.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:30:28Z",
-    "summary": "IT之家 11 月 16 日消息，Rockstar Games 为了让《侠盗猎车手》（GTA）系列的开放世界更加真实，曾安排研究团队深入现实中的帮派社区、地下赛车聚会和监狱，甚至与 FBI 特工、毒品走私者及真实帮派成员交流。 据 IGN 报道，一名前 Rockstar 研究员 Gregory Johnson 独家对该"
-  },
-  {
-    "title": "《怪物猎人：荒野》性能问题耗时近一年才修复，卡普空暗示若无 RE 引擎需更久",
-    "url": "https://www.ithome.com/1/027/924.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:26:11Z",
-    "summary": "IT之家 11 月 16 日消息，《怪物猎人：荒野》（Monster Hunter Wilds）无疑是系列中一款相当出色的作品，但一个不争的事实是，这款由卡普空（CAPCOM）开发、登陆 PC、PlayStation 5、Xbox Series X 和 Xbox Series S 平台的游戏，在发售时各个平台的技术表现"
-  },
-  {
-    "title": "拼多多推出“申诉优赔”服务：平台主动介入异常投诉，为商家损失兜底补偿",
-    "url": "https://www.ithome.com/1/027/923.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:17:08Z",
-    "summary": "IT之家 11 月 16 日消息，拼多多宣布持续优化平台商家服务体系，对商家售后申诉服务进行了专项升级，推出了“申诉优赔”服务。平台主动识别异常投诉、异常退款等订单，经核实后，由平台对商家货款、运费损失等进行补偿。 据拼多多商家服务团队相关负责人介绍，此前，商家遭遇不合理客诉，需自行发起申诉，再由平台审核。这次升级的“"
-  },
-  {
-    "title": "任天堂《皮克敏 4：Switch 2 版》M 站玩家评分仅 1.8 分，被吐槽不值",
-    "url": "https://www.ithome.com/1/027/922.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:12:08Z",
-    "summary": "IT之家 11 月 16 日消息，任天堂（Nintendo）11 月 12 日通过《皮克敏 4》（Pikmin 4）为不断扩充的 Switch 2 版本游戏阵容再添一员。此次升级不仅加入了新功能，还试图通过推出基于原版热门玩法“Dandori Academy”的新模式，为付费升级提供更多价值。不过，玩家评价出炉后，系列"
-  },
-  {
-    "title": "明基上架 AK900ST AI 高尔夫投影机：6000lm 亮度、短焦镜头设计，52999 元",
-    "url": "https://www.ithome.com/1/027/921.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T11:08:45Z",
-    "summary": "IT之家 11 月 16 日消息，明基现已在京东上架 AK900ST“AI 高尔夫投影机”，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。 京东 明基 AK900ST 投影仪 52999 元 直达链接 该机搭载激光光源，正常寿命达 20000 小时（节能为 30000 小时），具备 4K 分辨率、MEM"
-  },
-  {
-    "title": "英国出台网络安全新规：平台必须主动识别并删除儿童色情内容",
-    "url": "https://www.ithome.com/1/027/919.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T10:55:45Z",
-    "summary": "IT之家 11 月 16 日消息，据路透社报道，英国通信管理局（Ofcom）周一宣布收紧网络儿童安全监管规定，要求各类网络平台加大打击儿童性虐待内容和诱骗行为的力度。此举也为英国计划实施的 16 岁以下青少年社交媒体禁令铺路。 根据新规定，社交媒体平台、文件共享服务、色情网站及其他在线服务预计将从 2027 年初开始承"
-  },
-  {
-    "title": "KTC 推出“H32U6P”31.5 英寸显示器：4K 60Hz 配 90W USB-C，1399 元",
-    "url": "https://www.ithome.com/1/027/918.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T10:50:53Z",
-    "summary": "IT之家 11 月 16 日消息，KTC 现已在京东上架型号为“H32U6P”的 31.5 英寸显示器，该机为 4K 60hz 规格， 定价为 1399 元 。 京东 KTC“H32U6P”显示器 1399 元 直达链接 该机配备一块 3840x2160 分辨率 60Hz 侧入式背光 Fast IPS 面板，显示器亮度"
-  },
-  {
-    "title": "U 盘屏幕也能跑《毁灭战士》，靠文件复制就能玩",
-    "url": "https://www.ithome.com/1/027/917.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T10:43:35Z",
-    "summary": "IT之家 11 月 16 日消息，现在，《毁灭战士》（Doom）甚至能在 U 盘自带的 LCD 屏幕上运行，玩家只需通过与 U 盘之间复制文件就能游玩。硬件改装爱好者亚伦 · 克里斯托费尔（Aaron Christophel）在一段拆解视频中展示了这一成果。 这款 U 盘显示芯片上的型号标识已经被人为抹除，不过，克里斯"
-  },
-  {
-    "title": "贝壳 2026 财年前三季度归母净利润 60.72 亿元，同比增长 108.95%",
-    "url": "https://www.ithome.com/1/027/914.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T10:40:30Z",
-    "summary": "IT之家 11 月 16 日消息，贝壳今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：644.21 亿元，同比下降 11% 归母净利润 ：6"
-  },
-  {
-    "title": "吉利银河 M8 大五座旗舰 SUV 全球首秀定档 11 月 17 日",
-    "url": "https://www.ithome.com/1/027/916.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T10:26:07Z",
-    "summary": "IT之家 11 月 16 日消息，吉利银河今日官宣旗下首款旗舰大五座 SUV —— 吉利银河 M8 全球首秀定档 11 月 17 日。 吉利银河 M8 此前已出现在工信部第 411 批新车申报目录中，采用插混动力，5 座布局，车顶配备激光雷达，这也是银河品牌在 M9 之后推出的又一款大尺寸 SUV。 该车尺寸为 520"
-  },
-  {
-    "title": "横跨 1971 至 2024 年，爱好者收集 357 款 CPU 核心高清照片",
-    "url": "https://www.ithome.com/1/027/912.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T10:14:31Z",
-    "summary": "IT之家 11 月 16 日消息，一位 CPU 爱好者整理了一份处理器数据库，收录了 357 款经典及相对冷门处理器的高清核心照片（Die Shot），画面清晰，细节丰富。 访问 sheets.works/data-viz/cpu-dies ，用户可以浏览一个支持排序、搜索和筛选的处理器核心照片图库。其中的照片均由摄影"
-  },
-  {
-    "title": "银昕推出 AIO 液冷 Hailstone 420：搭载工业级 14034 LCP 风扇，支持 450W TDP",
-    "url": "https://www.ithome.com/1/027/907.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:53:12Z",
-    "summary": "IT之家 11 月 16 日消息，SilverStone（银欣 / 银昕）现已在其官网上线一体式液冷散热器 Hailstone 420。这一型号搭载 3 颗工业级 14034 规格大尺寸加厚风扇，配备 LCP 扇叶、双滚珠轴承， 设计解热能力达到 450W 。 Hailstone 420 拥有超大面积铜底，支持 sTR"
-  },
-  {
-    "title": "小鹏集团 2026 财年第三财季归母亏损 8.7 亿元，同比增长 127.9%",
-    "url": "https://www.ithome.com/1/027/884.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:43:48Z",
-    "summary": "IT之家 11 月 16 日消息，小鹏集团今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：242.8 亿元，同比增长 19.1%，环比增长 23% 毛利润 ：46 亿元，同比增长 12.1%，环比增长 12.7% 毛利率"
-  },
-  {
-    "title": "美国连续 3 天上万航班延误或取消，交通部长甩锅“历史问题”并拒绝道歉",
-    "url": "https://www.ithome.com/1/027/879.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:42:29Z",
-    "summary": "IT之家 11 月 16 日消息，北京时间 11 月 14 日凌晨，美国航空交通管制系统发生大规模通信故障， 美国联邦航空管理局（FAA）在约半小时内将局部停飞升级为全国性地面停飞 ，要求所有待起飞航班留在地面，直至另行通知。 图源：Pixabay 据央视新闻今日报道，美国航空运输业在经历联邦航空管理局（FAA）全国航"
-  },
-  {
-    "title": "爱奇艺 2026 年第三季度净亏损 1.733 亿元，营收同比下降 10%",
-    "url": "https://www.ithome.com/1/027/867.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:38:57Z",
-    "summary": "IT之家 11 月 16 日消息，爱奇艺今日公布了截至 2026 年 9 月 30 日的第三季度未审计财报。 总收入为人民币 60.1 亿元（8.96 亿美元）， 同比下降 10% 。 营业亏损为人民币 4190 万元（约 630 万美元），营业亏损率为 1%；而 2025 年同期营业亏损为人民币 1.218 亿元人民"
-  },
-  {
-    "title": "百度 2026 财年第三财季归母净利润 13.95 亿元，同比扭亏为盈",
-    "url": "https://www.ithome.com/1/027/864.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:38:22Z",
-    "summary": "IT之家 11 月 16 日消息，百度今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：308.07 亿元，同比下降 1%，环比下降 2% 归母净利润 ：13.95 亿元，同比扭亏为盈，环比下降 39.84% 经营现金流 "
-  },
-  {
-    "title": "EPOMAKER 推出 Bamboo75 三模机械键盘：竹质机身 + 竹纹键帽",
-    "url": "https://www.ithome.com/1/027/862.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:36:28Z",
-    "summary": "IT之家 11 月 16 日消息，EPOMAKER 上周公布了三模机械键盘 Bamboo75。该系列的 每件产品都拥有纹理独一无二的手工抛光竹材机身 ，搭配原厂 (CHERRY) 高度的 PBT + ABS 混合注塑染料热升华工艺 竹纹侧透键帽 。 Bamboo75 键盘采用 75% 配列，内部为 Tray-Mount"
-  },
-  {
-    "title": "国际货币基金组织总裁警告：全球经济过度依赖 AI，相关循环融资规模超 1 万亿美元",
-    "url": "https://www.ithome.com/1/027/861.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:32:58Z",
-    "summary": "IT之家 11 月 16 日消息，据 CNBC 报道，国际货币基金组织（IMF）总裁克里斯塔利娜 · 格奥尔基耶娃（Kristalina Georgieva）当地时间周一表示，全球经济目前正“依靠 AI 这条腿支撑”，但对这一领域的过度依赖可能危及全球金融稳定。 格奥尔基耶娃在菲律宾出席东盟峰会期间接受采访时指出，如果"
-  },
-  {
-    "title": "国产独游《艾希》十周年续作《艾希：续》Steam 版最终众筹金额超 4280 万元，原目标 1 万元",
-    "url": "https://www.ithome.com/1/027/860.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:32:00Z",
-    "summary": "IT之家 11 月 16 日消息，国产横版动作独立游戏《艾希》（ICEY）发售十年后，作者老马克肖公布了游戏续作《艾希：续》。本作已于 10 月 1 日开启众筹， 目标金额 1 万元 。 IT之家查询获悉，《艾希》十周年续作《艾希：续》众筹已结束， 最终筹得金额超 4,280 万元（42,807,662.9 元） ，收"
-  },
-  {
-    "title": "46mm 教育优惠 2379 元：苹果 Apple Watch Series 12 国补京东探底",
-    "url": "https://www.ithome.com/1/027/857.htm",
-    "source_id": "ithome",
-    "source_name": "IT之家",
-    "group": "好价资讯",
-    "published_at": "2026-11-16T09:19:04Z",
-    "summary": "苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元，教育优惠价 3099 元。 京东今日教育优惠版直降至 2379 元，需使用搭载 iOS27 系统的 iPhone 激活签收哦： 京东 Apple Watch Series 12 46mm 教育优惠版"
   }
 ]
