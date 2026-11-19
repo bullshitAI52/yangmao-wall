@@ -1,26 +1,21 @@
 {
   "schema": "daily-deals.snapshot.v1",
   "note": "公开抓取快照，只含标题、原文链接、时间和来源成败。不含凭证、Cookie、请求头或正文。fetchedAt 过期后不能当作新一轮数据。",
-  "fetchedAt": "2026-11-18T20:16:43.625Z",
-  "fetchedAtBeijing": "2026-11-19 04:16",
-  "freshUntil": "2026-11-18T22:16:43.625Z",
+  "fetchedAt": "2026-11-19T00:16:43.981Z",
+  "fetchedAtBeijing": "2026-11-19 08:16",
+  "freshUntil": "2026-11-19T02:16:43.981Z",
   "roundStatus": "partial",
   "sourceHealth": {
-    "ok": 5,
+    "ok": 6,
     "total": 7
   },
-  "activeCount": 1112,
-  "newCount": 1,
+  "activeCount": 1133,
+  "newCount": 21,
   "failures": [
     {
       "sourceId": "linuxdo",
       "sourceName": "LINUX DO福利羊毛",
       "error": "HTTP 401"
-    },
-    {
-      "sourceId": "nodeseek",
-      "sourceName": "NodeSeek",
-      "error": "HTTP 403"
     }
   ],
   "sources": [
@@ -54,11 +49,11 @@
     {
       "id": "nodeseek",
       "name": "NodeSeek",
-      "ok": false,
-      "fetched": 0,
-      "inserted": 0,
-      "error": "HTTP 403",
-      "finalUrl": null
+      "ok": true,
+      "fetched": 20,
+      "inserted": 20,
+      "error": null,
+      "finalUrl": "https://rss.nodeseek.com/"
     },
     {
       "id": "appinn",
@@ -90,6 +85,258 @@
   ],
   "items": [
     {
+      "title": "Gemini王朝了，Gemini 4 neon薄纱opus 5.5",
+      "url": "https://www.nodeseek.com/post-1064500-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:13:34.000Z",
+      "publishedAtBeijing": "2026-11-19 08:13",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "google又发新模型了",
+      "url": "https://www.nodeseek.com/post-1064498-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:11:59.000Z",
+      "publishedAtBeijing": "2026-11-19 08:11",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "【TQ】dmit la pro wee测试留档（调优前）",
+      "url": "https://www.nodeseek.com/post-1064497-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:11:27.000Z",
+      "publishedAtBeijing": "2026-11-19 08:11",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "「450出」OVH KS-LE-3 GRA混合盘标配 CA区",
+      "url": "https://www.nodeseek.com/post-1064496-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:08:58.000Z",
+      "publishedAtBeijing": "2026-11-19 08:08",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "Gemini 4 Argon (已退休)接下来的是Gemini 4 Neon (新)。搞这么快",
+      "url": "https://www.nodeseek.com/post-1064495-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:08:19.000Z",
+      "publishedAtBeijing": "2026-11-19 08:08",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "【收】muse，第一批注册的",
+      "url": "https://www.nodeseek.com/post-1064494-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:07:53.000Z",
+      "publishedAtBeijing": "2026-11-19 08:07",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "NGINX 两个严重 HTTP/2 漏洞",
+      "url": "https://www.nodeseek.com/post-1064493-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:07:02.000Z",
+      "publishedAtBeijing": "2026-11-19 08:07",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "1美金开通 3 个月 谷歌Gemini pro，可以用谷歌Gemini4",
+      "url": "https://www.nodeseek.com/post-1064492-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:06:40.000Z",
+      "publishedAtBeijing": "2026-11-19 08:06",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "namecrane 出的 lifetime 存储，1tb300刀",
+      "url": "https://www.nodeseek.com/post-1064491-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:05:31.000Z",
+      "publishedAtBeijing": "2026-11-19 08:05",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "自建的sub2api，客户端还是拉不到6.2模型，什么原因?",
+      "url": "https://www.nodeseek.com/post-1064490-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:03:03.000Z",
+      "publishedAtBeijing": "2026-11-19 08:03",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "AVAHosting VPS nano 抗DMCA 无限流量 可以关注抢购一下",
+      "url": "https://www.nodeseek.com/post-1064489-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:02:53.000Z",
+      "publishedAtBeijing": "2026-11-19 08:02",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "【NQ】DMIT.LAX.Pro.wee",
+      "url": "https://www.nodeseek.com/post-1064488-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:02:34.000Z",
+      "publishedAtBeijing": "2026-11-19 08:02",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "避避坑阿里广州前置+野草云香港IX好拉跨啊",
+      "url": "https://www.nodeseek.com/post-1064487-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-19T00:01:02.000Z",
+      "publishedAtBeijing": "2026-11-19 08:01",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "[NQ] AVAHosting 抗DMCA通报 VPS - Nano 1c512m Unlimited@100Mbps 11€/y≈81r",
+      "url": "https://www.nodeseek.com/post-1064486-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:58:12.000Z",
+      "publishedAtBeijing": "2026-11-19 07:58",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "上游和线路",
+      "url": "https://www.nodeseek.com/post-1064485-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:54:19.000Z",
+      "publishedAtBeijing": "2026-11-19 07:54",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "【NQ】dmit la pro wee评测留档",
+      "url": "https://www.nodeseek.com/post-1064484-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:49:53.000Z",
+      "publishedAtBeijing": "2026-11-19 07:49",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "收xyz域名",
+      "url": "https://www.nodeseek.com/post-1064483-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:49:46.000Z",
+      "publishedAtBeijing": "2026-11-19 07:49",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "neon对比carbon 哪个更好",
+      "url": "https://www.nodeseek.com/post-1064482-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:47:43.000Z",
+      "publishedAtBeijing": "2026-11-19 07:47",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "从来没见过v6电信走CN2，是电信没有部署吗？",
+      "url": "https://www.nodeseek.com/post-1064481-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:45:45.000Z",
+      "publishedAtBeijing": "2026-11-19 07:45",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "gemini neon上线了，argon被替换了",
+      "url": "https://www.nodeseek.com/post-1064480-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-18T23:43:59.000Z",
+      "publishedAtBeijing": "2026-11-19 07:43",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "我是这样开通和入金 U 卡，用于订阅 ChatGPT 和 Google AI 的，Claude 我不知道我没开通过",
+      "url": "https://www.v2ex.com/t/1258139",
+      "sourceId": "v2ex",
+      "sourceName": "V2EX推广",
+      "category": "会员订阅",
+      "publishedAt": "2026-11-18T17:47:11.000Z",
+      "publishedAtBeijing": "2026-11-19 01:47",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
       "title": "我用了同一段提示词，让两个模型拆解火锅和猫咖",
       "url": "https://www.v2ex.com/t/1258138",
       "sourceId": "v2ex",
@@ -99,7 +346,7 @@
       "publishedAtBeijing": "2026-11-19 01:46",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "有没有优惠点的seedance 2.5渠道？",
