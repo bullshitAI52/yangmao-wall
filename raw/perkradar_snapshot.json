@@ -1,16 +1,16 @@
 {
   "schema": "daily-deals.snapshot.v1",
   "note": "公开抓取快照，只含标题、原文链接、时间和来源成败。不含凭证、Cookie、请求头或正文。fetchedAt 过期后不能当作新一轮数据。",
-  "fetchedAt": "2026-11-21T12:16:39.915Z",
-  "fetchedAtBeijing": "2026-11-21 20:16",
-  "freshUntil": "2026-11-21T14:16:39.915Z",
+  "fetchedAt": "2026-11-21T16:17:32.654Z",
+  "fetchedAtBeijing": "2026-11-22 00:17",
+  "freshUntil": "2026-11-21T18:17:32.654Z",
   "roundStatus": "success",
   "sourceHealth": {
     "ok": 7,
     "total": 7
   },
-  "activeCount": 1299,
-  "newCount": 36,
+  "activeCount": 1326,
+  "newCount": 1,
   "failures": [],
   "sources": [
     {
@@ -18,7 +18,7 @@
       "name": "LINUX DO福利羊毛",
       "ok": true,
       "fetched": 25,
-      "inserted": 13,
+      "inserted": 0,
       "error": null,
       "finalUrl": "https://r.jina.ai/https://linux.do/c/welfare/36.rss"
     },
@@ -27,7 +27,7 @@
       "name": "V2EX推广",
       "ok": true,
       "fetched": 50,
-      "inserted": 2,
+      "inserted": 0,
       "error": null,
       "finalUrl": "https://www.v2ex.com/feed/promotions.xml"
     },
@@ -45,7 +45,7 @@
       "name": "NodeSeek",
       "ok": true,
       "fetched": 20,
-      "inserted": 20,
+      "inserted": 1,
       "error": null,
       "finalUrl": "https://rss.nodeseek.com/"
     },
@@ -54,7 +54,7 @@
       "name": "小众软件",
       "ok": true,
       "fetched": 10,
-      "inserted": 1,
+      "inserted": 0,
       "error": null,
       "finalUrl": "https://www.appinn.com/feed/"
     },
@@ -79,6 +79,390 @@
   ],
   "items": [
     {
+      "title": "15 出 MatrixIDC 圣何塞 4837 优化 轻量款 剩余一个月",
+      "url": "https://www.nodeseek.com/post-1071049-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:15:36.000Z",
+      "publishedAtBeijing": "2026-11-22 00:15",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "hostloc的域名解析没了",
+      "url": "https://www.nodeseek.com/post-1071048-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:15:17.000Z",
+      "publishedAtBeijing": "2026-11-22 00:15",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "珍惜现在可以用的MUSE号",
+      "url": "https://www.nodeseek.com/post-1071047-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:15:10.000Z",
+      "publishedAtBeijing": "2026-11-22 00:15",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "【出】没改就是还在，溢价150，干杯云148月付，网关升级版，200mbps，2T",
+      "url": "https://www.nodeseek.com/post-1071046-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:14:14.000Z",
+      "publishedAtBeijing": "2026-11-22 00:14",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "溢价50收来的，溢价50出VPS.Town HKG-A5p 存储型 4h 16g 首发6折款",
+      "url": "https://www.nodeseek.com/post-1071045-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:14:07.000Z",
+      "publishedAtBeijing": "2026-11-22 00:14",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "raksmart有点意思",
+      "url": "https://www.nodeseek.com/post-1071044-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:14:06.000Z",
+      "publishedAtBeijing": "2026-11-22 00:14",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "什么素质的 Google号能登录 antigravity？",
+      "url": "https://www.nodeseek.com/post-1071043-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:13:55.000Z",
+      "publishedAtBeijing": "2026-11-22 00:13",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "为啥我pixel的反重力用不了gemini4",
+      "url": "https://www.nodeseek.com/post-1071042-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:11:58.000Z",
+      "publishedAtBeijing": "2026-11-22 00:11",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "关于域名被dns污染解决心得，简单修改关键词避开封杀",
+      "url": "https://www.nodeseek.com/post-1071041-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:11:49.000Z",
+      "publishedAtBeijing": "2026-11-22 00:11",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "上车土耳其年付GeminiPro",
+      "url": "https://www.nodeseek.com/post-1071040-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:10:43.000Z",
+      "publishedAtBeijing": "2026-11-22 00:10",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "好害怕杀到我的学生优惠pro 720 谷歌已经开始了",
+      "url": "https://www.nodeseek.com/post-1071039-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "低价优惠",
+      "publishedAt": "2026-11-21T16:10:15.000Z",
+      "publishedAtBeijing": "2026-11-22 00:10",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "【秒出】6R出Hkcloudx-MiniV6-1000G 12.1到期$0.6，ns邮箱转移",
+      "url": "https://www.nodeseek.com/post-1071038-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:10:08.000Z",
+      "publishedAtBeijing": "2026-11-22 00:10",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "家款是智商税吗",
+      "url": "https://www.nodeseek.com/post-1071037-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:08:56.000Z",
+      "publishedAtBeijing": "2026-11-22 00:08",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "【NQ+TQ+YABS】sadidc.com 伤心的云 HK.Move Lv1",
+      "url": "https://www.nodeseek.com/post-1071036-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:08:00.000Z",
+      "publishedAtBeijing": "2026-11-22 00:08",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "【NQ留档】SkyWolf HK VPS - Plus 2T 1Gbps",
+      "url": "https://www.nodeseek.com/post-1071035-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:06:34.000Z",
+      "publishedAtBeijing": "2026-11-22 00:06",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "剩余出 Vmiss US.LA.9929.Pro 144CAD年付",
+      "url": "https://www.nodeseek.com/post-1071034-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:06:19.000Z",
+      "publishedAtBeijing": "2026-11-22 00:06",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "这几天使用论坛的中介系统交易的体验分享",
+      "url": "https://www.nodeseek.com/post-1071033-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:06:14.000Z",
+      "publishedAtBeijing": "2026-11-22 00:06",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "智能鸡与功能鸡",
+      "url": "https://www.nodeseek.com/post-1071032-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:05:56.000Z",
+      "publishedAtBeijing": "2026-11-22 00:05",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "cf现在连通性也太差了吧？",
+      "url": "https://www.nodeseek.com/post-1071031-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:05:27.000Z",
+      "publishedAtBeijing": "2026-11-22 00:05",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "google解封不难，有耐心就行",
+      "url": "https://www.nodeseek.com/post-1071030-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:05:02.000Z",
+      "publishedAtBeijing": "2026-11-22 00:05",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "muse自制版VPS面板",
+      "url": "https://www.nodeseek.com/post-1071029-1",
+      "sourceId": "nodeseek",
+      "sourceName": "NodeSeek",
+      "category": "其他",
+      "publishedAt": "2026-11-21T16:03:55.000Z",
+      "publishedAtBeijing": "2026-11-22 00:03",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": true
+    },
+    {
+      "title": "hub站免费6.1sol",
+      "url": "https://linux.do/t/topic/3218744",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "免费白嫖",
+      "publishedAt": "2026-11-21T15:58:00.000Z",
+      "publishedAtBeijing": "2026-11-21 23:58",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "焚决！4.99 刀白嫖两个 Devin Max 订阅，Magpie 反代原生 Claude：Fable 5.2、Opus 5.5，实测每秒 150 token、周额度 250 刀",
+      "url": "https://linux.do/t/topic/3218661",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "会员订阅",
+      "publishedAt": "2026-11-21T15:42:12.000Z",
+      "publishedAtBeijing": "2026-11-21 23:42",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "TK 软路由&管理软件系统适用各种流媒体包括 claude",
+      "url": "https://www.v2ex.com/t/1258821",
+      "sourceId": "v2ex",
+      "sourceName": "V2EX推广",
+      "category": "其他",
+      "publishedAt": "2026-11-21T15:39:22.000Z",
+      "publishedAtBeijing": "2026-11-21 23:39",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "日区直接跳3个月pro 720日元，佬友们要不要点啊？还是拼学生认证？",
+      "url": "https://linux.do/t/topic/3218495",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "其他",
+      "publishedAt": "2026-11-21T15:13:49.000Z",
+      "publishedAtBeijing": "2026-11-21 23:13",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "devin max开通求助",
+      "url": "https://linux.do/t/topic/3218483",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "其他",
+      "publishedAt": "2026-11-21T15:12:13.000Z",
+      "publishedAtBeijing": "2026-11-21 23:12",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 支持 U 结算",
+      "url": "https://www.v2ex.com/t/1258817",
+      "sourceId": "v2ex",
+      "sourceName": "V2EX推广",
+      "category": "低价优惠",
+      "publishedAt": "2026-11-21T15:11:05.000Z",
+      "publishedAtBeijing": "2026-11-21 23:11",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "出一个月devin max的链接，220，带18$额度，口令支付",
+      "url": "https://linux.do/t/topic/3218276",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "其他",
+      "publishedAt": "2026-11-21T14:32:55.000Z",
+      "publishedAtBeijing": "2026-11-21 22:32",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "Devin Max订阅开蹬 2000刀",
+      "url": "https://linux.do/t/topic/3217990",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "会员订阅",
+      "publishedAt": "2026-11-21T13:34:11.000Z",
+      "publishedAtBeijing": "2026-11-21 21:34",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "AWS最新福利 价值25刀的Plus，会员免费opus，sol模型可用",
+      "url": "https://linux.do/t/topic/3217970",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "会员订阅",
+      "publishedAt": "2026-11-21T13:31:01.000Z",
+      "publishedAtBeijing": "2026-11-21 21:31",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "免费计算资源",
+      "url": "https://linux.do/t/topic/3217752",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "免费白嫖",
+      "publishedAt": "2026-11-21T12:50:01.000Z",
+      "publishedAtBeijing": "2026-11-21 20:50",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
+      "title": "能私密我一个谷歌账号吗？我在测试撸gemini,24个月pro。最好美区的（在线等）",
+      "url": "https://linux.do/t/topic/3217732",
+      "sourceId": "linuxdo",
+      "sourceName": "LINUX DO福利羊毛",
+      "category": "其他",
+      "publishedAt": "2026-11-21T12:45:26.000Z",
+      "publishedAtBeijing": "2026-11-21 20:45",
+      "expiresAt": null,
+      "expiresAtBeijing": null,
+      "isNew": false
+    },
+    {
       "title": "200出Devin max链接 44刀额度",
       "url": "https://www.nodeseek.com/post-1070565-1",
       "sourceId": "nodeseek",
@@ -88,7 +472,7 @@
       "publishedAtBeijing": "2026-11-21 20:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【收】+900收瓦工MINIBOX 27.04刀原邮",
@@ -100,7 +484,7 @@
       "publishedAtBeijing": "2026-11-21 20:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "这得啥时候才能填满",
@@ -112,7 +496,7 @@
       "publishedAtBeijing": "2026-11-21 20:16",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "收个taipei101 lax1",
@@ -124,7 +508,7 @@
       "publishedAtBeijing": "2026-11-21 20:15",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "rudesk无法携带本地的麦克风到远程，语音输入",
@@ -136,7 +520,7 @@
       "publishedAtBeijing": "2026-11-21 20:15",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "25代充Gemini 5x/9.9刀 20x/19.9刀",
@@ -148,7 +532,7 @@
       "publishedAtBeijing": "2026-11-21 20:14",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "「留档TQ」EVOXT马来西亚",
@@ -160,7 +544,7 @@
       "publishedAtBeijing": "2026-11-21 20:12",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "腾讯云锐驰全天基本以匀速跑的话, 平均一天30g 算不算过不过分",
@@ -172,7 +556,7 @@
       "publishedAtBeijing": "2026-11-21 20:11",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "rak这几天事情可真多啊",
@@ -184,7 +568,7 @@
       "publishedAtBeijing": "2026-11-21 20:11",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "哥哥们 有两台鸡 不同厂家的 能不能放一起管理",
@@ -196,7 +580,7 @@
       "publishedAtBeijing": "2026-11-21 20:11",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "AWS免绑卡现在什么行情",
@@ -208,7 +592,7 @@
       "publishedAtBeijing": "2026-11-21 20:10",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "接美区google ultra 5x 20x 9.99$ 19.99$ 代订阅",
@@ -220,7 +604,7 @@
       "publishedAtBeijing": "2026-11-21 20:09",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "以往谷歌活动是二次认证还是直接杀号？",
@@ -232,7 +616,7 @@
       "publishedAtBeijing": "2026-11-21 20:09",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "DMIT换IP",
@@ -244,7 +628,7 @@
       "publishedAtBeijing": "2026-11-21 20:08",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【收】再收个未过白的vmiss la tri basic",
@@ -256,7 +640,7 @@
       "publishedAtBeijing": "2026-11-21 20:08",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "40收88vip网易云会员",
@@ -268,7 +652,7 @@
       "publishedAtBeijing": "2026-11-21 20:05",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "问一下大家，4837的线路电信恢复了没？",
@@ -280,7 +664,7 @@
       "publishedAtBeijing": "2026-11-21 20:05",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【出售】9折出RakSmart账户余额，NS邮箱转",
@@ -292,7 +676,7 @@
       "publishedAtBeijing": "2026-11-21 20:05",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【gemini】重置额度了",
@@ -304,7 +688,7 @@
       "publishedAtBeijing": "2026-11-21 20:02",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "200出devin 45刀加max",
@@ -316,7 +700,7 @@
       "publishedAtBeijing": "2026-11-21 20:01",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【富可敌国】【流光AI】11/21｜GPT-6.2 Astra、GPT-6.2 Sol等上新，留 ID 送 3 元",
@@ -328,7 +712,7 @@
       "publishedAtBeijing": "2026-11-21 19:31",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【富可敌国】取消 $1 预存门槛！开始爽蹬，蹬得越多明天返得越多",
@@ -340,7 +724,7 @@
       "publishedAtBeijing": "2026-11-21 19:30",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Google Gemini 黑五五折！AI Pro 年费约 100 美元，Google One 老用户也能参加",
@@ -352,7 +736,7 @@
       "publishedAtBeijing": "2026-11-21 19:14",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "HiDNS 3个免费域名部分可CF，官方周年活动，24H内有效",
@@ -364,7 +748,7 @@
       "publishedAtBeijing": "2026-11-21 19:09",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "🔥[RackNerd 2026 黑五大促销]|虽然价格不如往日，但在涨价浪潮下横向对比算是尚可的，小白拿来练手比较好 | 回复订单/账单号，申请流量翻倍",
@@ -376,7 +760,7 @@
       "publishedAtBeijing": "2026-11-21 19:07",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Google AI Pro 学生优惠4年开通成功 30元每月token又自由了起来",
@@ -388,7 +772,7 @@
       "publishedAtBeijing": "2026-11-21 19:01",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "现在苹果iOS还能开土区Gemini Ultra吗",
@@ -400,10 +784,10 @@
       "publishedAtBeijing": "2026-11-21 18:43",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "HUB上架，还剩一些gpt，0.01，需要的拿去玩吧~(重开，仅有6.1sol)（不降智）",
+      "title": "HUB上架，还剩一些gpt，0.01，需要的拿去玩吧~(重开，仅有6.1sol)（不降智）(已无)",
       "url": "https://linux.do/t/topic/3216978",
       "sourceId": "linuxdo",
       "sourceName": "LINUX DO福利羊毛",
@@ -412,7 +796,7 @@
       "publishedAtBeijing": "2026-11-21 18:04",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Gemini Ultra 已重置，速蹬",
@@ -424,7 +808,7 @@
       "publishedAtBeijing": "2026-11-21 17:27",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "【暂无，晚点继续】 500刀进行测试 10并发限制",
@@ -436,7 +820,7 @@
       "publishedAtBeijing": "2026-11-21 17:22",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "生图公益站LDC充值",
@@ -448,7 +832,7 @@
       "publishedAtBeijing": "2026-11-21 17:14",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "建行app领10-100微信立减金，我领了30",
@@ -460,7 +844,7 @@
       "publishedAtBeijing": "2026-11-21 16:51",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "请问 jio 怎么转半价 pro",
@@ -472,7 +856,7 @@
       "publishedAtBeijing": "2026-11-21 16:34",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "[1121] GPT 代充 PLUS ¥116、Pro100 ¥645、Pro200 ¥1045 [PLUS 成品号 80] 另外也出 GPT 协议",
@@ -484,7 +868,7 @@
       "publishedAtBeijing": "2026-11-21 16:23",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "瑞幸无限买一送一（理论上）",
@@ -496,7 +880,7 @@
       "publishedAtBeijing": "2026-11-21 16:18",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "看来要清算了",
@@ -760,7 +1144,7 @@
       "publishedAtBeijing": "2026-11-21 15:57",
       "expiresAt": null,
       "expiresAtBeijing": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "gpt 中转，使用 gpt-6.2-sol 大概 6 块钱一个亿",
@@ -15602,66 +15986,6 @@
       "category": "其他",
       "publishedAt": "2026-11-14T16:41:14.000Z",
       "publishedAtBeijing": "2026-11-15 00:41",
-      "expiresAt": null,
-      "expiresAtBeijing": null,
-      "isNew": false
-    },
-    {
-      "title": "免费分享一个glm5.3和glm5.3Flash的ApiKey密钥",
-      "url": "https://linux.do/t/topic/3177604",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "category": "免费白嫖",
-      "publishedAt": "2026-11-14T15:14:14.000Z",
-      "publishedAtBeijing": "2026-11-14 23:14",
-      "expiresAt": null,
-      "expiresAtBeijing": null,
-      "isNew": false
-    },
-    {
-      "title": "天翼那个免费的云电脑有佬用过吗，好用吗",
-      "url": "https://linux.do/t/topic/3177529",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "category": "其他",
-      "publishedAt": "2026-11-14T14:53:11.000Z",
-      "publishedAtBeijing": "2026-11-14 22:53",
-      "expiresAt": null,
-      "expiresAtBeijing": null,
-      "isNew": false
-    },
-    {
-      "title": "第一次发福利羊毛，周六啦给佬友们准备了点token",
-      "url": "https://linux.do/t/topic/3177450",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "category": "免费白嫖",
-      "publishedAt": "2026-11-14T14:30:36.000Z",
-      "publishedAtBeijing": "2026-11-14 22:30",
-      "expiresAt": null,
-      "expiresAtBeijing": null,
-      "isNew": false
-    },
-    {
-      "title": "Cline快到期了 免费分享 已上hub deepseek-v4.1-flash-1017",
-      "url": "https://linux.do/t/topic/3177307",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "category": "免费白嫖",
-      "publishedAt": "2026-11-14T13:56:06.000Z",
-      "publishedAtBeijing": "2026-11-14 21:56",
-      "expiresAt": null,
-      "expiresAtBeijing": null,
-      "isNew": false
-    },
-    {
-      "title": "这里能不能发 grokbot 的邀请啊？",
-      "url": "https://linux.do/t/topic/3177161",
-      "sourceId": "linuxdo",
-      "sourceName": "LINUX DO福利羊毛",
-      "category": "其他",
-      "publishedAt": "2026-11-14T13:23:51.000Z",
-      "publishedAtBeijing": "2026-11-14 21:23",
       "expiresAt": null,
       "expiresAtBeijing": null,
       "isNew": false
